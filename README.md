@@ -8,7 +8,7 @@ Ini merupakan repository untuk naskah drama musikal ENFORIAN 2024 dengan tema be
 
 ## Struktur Repo
 
-- `root/`  
+- `tree/`  
   Isinya naskah dalam format .fountain dan PDF mentah naskahnya.
   
 - `PDF/`  
