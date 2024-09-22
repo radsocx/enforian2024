@@ -32,8 +32,8 @@ Ini merupakan repository untuk naskah drama musikal ENFORIAN 2024 dengan tema be
 
 ## Formatting Tambahan 
 - Kalo ada  atau kebingungan penulisan penulisan yang mau dikomunikasikan ke orang selain penulis, pakai [isi komentar] atau [TBA] kalau belum ada ide. Lalu di sebelahnya, tambah <span style="color:lightgreen">[[Komentar/ide bakal diisi apa]]</span>.
-  - [ ] komentar untuk pembaca.
-  - [[ ]] komentar untuk penulis (yang ini muncul di vscode).
+  - [] komentar untuk pembaca.
+  - [[ ]] komentar untuk penulis (yang ini gak muncul di export).
 - Untuk lagu, tulis judul lagu dengan kapital dan underscore. Contoh <u>LASKAR PELANGI INTRO</u>. Kalau lagu muncul di tengah dialog, tulis judul lagu dan keterangannya di dalam kurung dialog. 
 - Untuk Properti, PROPERTI ditulis caps lock, lalu sisanya huruf biasa dengan bold dan italic. Contoh: ***PROPERTI: Meja, Kursi, Sepeda***
 ## Export Final PDF
