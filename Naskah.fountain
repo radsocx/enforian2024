@@ -110,7 +110,7 @@ Source: Based on Laskar Pelangi
 
 !Semua ANAK-ANAK termasuk orang tua, BU MUSLIMAH serta PAK HARFAN menari bersama dengan gembira.
 
-.INT./EXT. RUANG KELAS/LUAR KELAS - "BU MUSLIMAH DAN PAK HARFAN" #2#
+.INT./EXT. RUANG KELAS/LUAR KELAS - "BU MUSLIMAH DAN PAK HARFAN" #1#
 
 ***PROPERTI: Daun palem besar, papan tulis dorong.***
 
@@ -250,7 +250,7 @@ Source: Based on Laskar Pelangi
 
 >TRANSITION [TBA]
 
-.INT. RUMAH LINTANG - "TENTANG LINTANG" #3#
+.INT. RUMAH LINTANG - "TENTANG LINTANG" #2#
 
 ***PROPERTI : Tampah beras, meja kayu, lampu templok/minyak, jala ikan***
 
@@ -322,7 +322,7 @@ Source: Based on Laskar Pelangi
 
 !MATEMATIKAWAN keluar stage setelah menyelimuti LINTANG dengan sarung
 
-.INT. TOKO KELONTONG SINAR HARAPAN - "A LING DAN IKAL" #4#
+.INT. TOKO KELONTONG SINAR HARAPAN - "A LING DAN IKAL" #3#
 
 ***PROPERTI :***
 
@@ -554,7 +554,7 @@ Source: Based on Laskar Pelangi
 
 >TRANSITION [TBA]
 
-.INT. RUANG KELAS - "DUA PILAR SANG JENIUS KELAS" #5#
+.INT. RUANG KELAS - "DUA PILAR SANG JENIUS KELAS" #4#
 
 ***PROPERTI : Papan tulis, meja, kursi, lidi***
 
@@ -705,7 +705,7 @@ Source: Based on Laskar Pelangi
 
 >TRANSITION [TBA]
 
-.EXT. PASAR MALAM - "PASAR MALAM DAN SEMBAHYANG REBUT" #6#
+.EXT. PASAR MALAM - "PASAR MALAM DAN SEMBAHYANG REBUT" #5#
 
 ***PROPERTI :***
 
@@ -856,7 +856,7 @@ Source: Based on Laskar Pelangi
 
 !A LING menerima boneka yang diberikan IKAL lalu mereka bergandengan tangan dan keluar dari stage
 
-.EXT. LUAR KELAS - "PERSIAPAN KARNAVAL" #7#
+.EXT. LUAR KELAS - "PERSIAPAN KARNAVAL" #6#
 
 ***PROPERTI : Papan Tulis***
 
@@ -1021,7 +1021,9 @@ Source: Based on Laskar Pelangi
                 MAHAR
     Makanya seriuslah! Kau sudah sampai hari terakhir masih terus salah gerak terus.
 
-!!ISTIRAHAT!
+[action istirahat] 
+
+[[action istirahat dong ditambahin]]
 
 !MAHAR Bbrdiri dan melihat ANAK-ANAK yang duduk kelelahan setelah latihan
 
@@ -1052,7 +1054,7 @@ Source: Based on Laskar Pelangi
 
 >TRANSITION [TBA]
 
-.INT/EXT. [TBA] - "HARI KARNAVAL" #8#
+.INT/EXT. [TBA] - "HARI KARNAVAL" #7#
 
 ***PROPERTI :***
 
@@ -1144,7 +1146,7 @@ Source: Based on Laskar Pelangi
                 MAHAR
     Itulah. Percayalah padaku, dan kita akan bangkit perlahan-lahan!
 
-.INT. TOKO KELONTONG/RUMAH LINTANG - "IA PERGI KE EDENSOR" #9#
+.INT. TOKO KELONTONG/RUMAH LINTANG - "IA PERGI KE EDENSOR" #8#
 
 ***PROPERTI :***
 
@@ -1227,7 +1229,7 @@ Source: Based on Laskar Pelangi
 
 >TRANSITION [TBA]
 
-.INT. RUANG KELAS - "CERDAS CERMAT" #10#
+.INT. RUANG KELAS - "CERDAS CERMAT" #9#
 
 ***PROPERTI : Tombol di tengah meja, meja, kursi, taplak meja***
 
@@ -1298,12 +1300,12 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 
 !LINTANG berdiri dari tempat duduknya, menjawab dengan suara membahana dan aksen Prancisnya yang lebih terdengar seperti orang menyanyi dangdut.
 
-                PANITIA
+                PANITIA CC
     SERAAAAATUSSSSS!!!!
 
 !Suara bersorak dan tepuk tangan bergemuruh, paling kencang terdengar dari kubu Laskar Pelangi dengan supporter SMP PN yang terlihat kesal dan mencak-mencak.
 
-                PANITIA
+                PANITIA CC
     If a force of fifty newtons is applied at an angle of sixty degree horizontally, what is the work done by this force to move an object ten metres horizontally?
 
                 LINTANG
@@ -1313,12 +1315,12 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 
 !Kontestan SD PN melempar pensil mereka, kesal.
 
-                PANITIA
+                PANITIA CC
     SERAAAAATUSSSSS!!
 
 !PANITIA bersorak lantang seperti mengumumkan hadiah tirai di acara televisi.
 
-                PANITIA
+                PANITIA CC
     Pertanyaan ketiga, hitunglah luas dalam jarak integral tiga dan nol untuk sebuah fungsi enam ditambah lima x dikurangi x pangkat dua dikurangi empat x
 
 !Kontestan lain terlihat ribut dengan coretan mereka, menunduk ke meja.
@@ -1326,7 +1328,7 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
                 LINTANG
     TIGA BELAS SETENGAH!!
 
-                PANITIA
+                PANITIA CC
     100 POIN UNTUK LASKAR PELANGI!!
 
 !Suara tepuk tangan bergemuruh lagi, PAK HARFAN kegirangan seperti anak kecil, menunjuk-nunjuk tim SMP Muhammadiyah.
@@ -1334,7 +1336,7 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
                 PAK HARFAN
     Lihatlah…itu anak-anakku, ini baru anak-anakku..
 
-                PANITIA
+                PANITIA CC
     Pertanyaan berikutnya. Jika kurva y sama dengan x kubik ditambah x kuadrat ditambah satu per x kubik ditambah sempuluh, asimtot datarnya di titik?
 
 !Tim dari SD PN sudah dengan sigap mencorat-coret kertas mereka, namun LINTANG, dengan tatapan tetap lurus ke depan dan jari di pelipis. 7 detik, dan Lintang dengan lantang menyeru.
@@ -1342,7 +1344,7 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
                 LINTANG
     X sama dengan tiga dan x sama dengan negatif 3!
 
-                PANITIA
+                PANITIA CC
     Jawaban salah, tim F minus 100 poin!
 
 !Keributan pecah di penonton, PAK MAHMUD yang menonton berdiri dengan kertas di tangannya.
@@ -1365,7 +1367,7 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 
 !LINTANG dengan tenang berjalan ke arah papan tulis LALU meraih kapur dan dengan sigap menjabarkan jawabannya sembari menjelaskan tiap tahapnya, masih dengan senyum dan keyakinan.
 
-                PANITIA
+                PANITIA CC
     A–ah..sepertinya kami melakukan kesalahan dalam membuat jawabannya, mohon maaf untuk tim F dan pihak sekolah Muhammadiyah. 100 POIN DAN KEMENANGAN UNTUK MUHAMMADIYAH!!
 
                 MAHAR
@@ -1380,7 +1382,7 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 
 !Mereka keluar gedung dengan arakan yang meriah, sepanjang jalan mengibarkan bendera merah putih layaknya atlit yang baru saja menang olimpiade.
 
-.INT./EXT. [TBA] - "BINTANG YANG PADAM" #11#
+.INT./EXT. [TBA] - "BINTANG YANG PADAM" #10#
 
 ***PROPERTI:***
 
