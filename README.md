@@ -11,7 +11,7 @@ Ini merupakan repository untuk naskah drama musikal ENFORIAN 2024 dengan tema be
 - `tree/`  
   Isinya naskah dalam format .fountain dan PDF mentah naskahnya.
   
-- `PDF/`  
+- `Script PDF/`  
   Isinya file .pdf final naskah yang bakal dicetak untuk versi itu sama naskah-naskah untuk aktor.
 - `musik/`
   Isinya file-file musik buat para musisi. ini masih digarap ya ges
@@ -28,7 +28,8 @@ Ini merupakan repository untuk naskah drama musikal ENFORIAN 2024 dengan tema be
 1. Fork dulu repository-nya.
 2. Bikin branch baru  
    ```bash
-   git checkout -b feature/nama-idemu
+   git branch nama-idemu
+   git checkout nama-idemu
 
 ## Formatting Tambahan 
 - Kalo ada  atau kebingungan penulisan penulisan yang mau dikomunikasikan ke orang selain penulis, pakai [isi komentar] atau [TBA] kalau belum ada ide. Lalu di sebelahnya, tambah <span style="color:lightgreen">[[Komentar/ide bakal diisi apa]]</span>.

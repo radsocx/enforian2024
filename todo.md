@@ -8,8 +8,8 @@
 - [ ] Tambahin transisi tiap adegan
 - [ ] Tambahin banyak action yang kurang
 - [ ] Lengkapi action yang bolong
-- [ ] Tambahin keterangan musik
-- [ ] Tambahin ekspresi dialog
+- [x] Tambahin keterangan musik
+- [ ] Tambahin ekspresi dialog (50%)
 - [x] Rapikan format komentar ( [<span style="color:lightblue">[[komentar]]</span> )
 
 
