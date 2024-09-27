@@ -789,7 +789,7 @@ WULAN menunjuk AWANG yang memegang layangan robek.
                 KUCAI
     Apakah kawanan buaya dapat menghentikanmu? Kau terlalu keren, tang.
 
-!MAHAR
+!MAHAR tiba-tiba mengeluh
 
                 BOREK
     Ah, Ibunda Guru! Aku tetap tak paham matematika! Kepalaku rasanya macam mau meletus! Kita nyanyi saja sekarang Ibunda Guru!
@@ -1401,40 +1401,58 @@ WULAN menunjuk AWANG yang memegang layangan robek.
                 IKAL
     Rindu ini kubawa dari pesisir Tanjung Pinang, kurengkuh di antara hujan pertama bulan September, dan angin selatan membawaku kemari kembali, A Ling..
 
-!IKAL dengan dramatis melenggang ke dalam toko, hanya untuk disambut A MIAW, mengulurkan kotak kapur ke Ikal. IKAL berdiri kaku, terlalu kaget untuk bereaksi.
+!IKAL dengan dramatis melenggang ke dalam toko, hanya untuk disambut A MIAW, mengulurkan kotak kapur ke IKAL. 
+                A MIAW
+                Kapur untuk Muhammadiyah satu!
+
+IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
                 SYAHDAN
     Ikal, kok kau lama sekali, kemarilah jangan berlama-lama bermesraan– E COPOT!!
 
-!SYAHDAN meloncat kaget, melihat siapa yang menyerahkan kapur ke IKAL. SYAHDAN mengguncang Ikal, mendesis.
+!SYAHDAN meloncat kaget, melihat siapa yang menyerahkan kapur ke IKAL. SYAHDAN mengguncang bahu IKAL, mendesis.
 
                 SYAHDAN
     HOI SADARLAH IKAL!! Siapa itu yang tangannya macam pentungan satpam?? Mana cewek kau??
 
-!A MIAW yang keluar dari pintu kasir menghampiri IKAL dengan raut sendu.
+!A MIAW yang keluar dari pintu kasir menghampiri IKAL masih dengan muka kaku, A MIAW memegang bahu IKAL erat-erat.
 
                 A MIAW
     A Ling sudah pigi Jakarta... Nanti dia terbang pukul jam 9 pagi bersama bibinya yang hidup sendiri, ia juga bisa sekolah di sekolah yang baik di sana. Di lain hari, jika nasib berpihak, kalian bisa bertemu lagi.
 
-!IKAL jatuh ke lututnya
+!IKAL jatuh ke lututnya.
 
                 A MIAW
     Ia titip salam buatmu dan ingin kau menyimpan buku diarinya, nak.
 
 !A MIAW menyerahkan buku harian A LING yang ditali dengan pita bersama novel ‘Seandainya Mereka Bisa Bicara’.
 
-!IKAL menerimanya dengan mata menahan tangis. IKAL berjalan ke tengah panggung dengan buku ALING
->
+!IKAL menerimanya dengan mata menahan tangis. IKAL berjalan ke tengah panggung dengan buku A LING, IKAL bersimpuh
 
->LIGHTS OUT
+>LIGHTS DIM [[??]]
+>FOLLOW LIGHTS IKAL
+                
+                SYAHDAN
+    OY IKAL!! KAWAN MAU KEMANA KAU?? KAPURNYA BELUM DIAMBIL, HOY!
 
-!Sudah dua hari IKAL tidak masuk sekolah.
+!SYAHDAN menghampiri IKAL yang bersimpuh di tengah panggung. SYAHDAN mengguncang bahu IKAL dan berusaha membantu IKAL berdiri. IKAL diam saja, masih meratap.
 
-!IKAL tampak meriang dan merana di rumahnya.
+                SYAHDAN
+    KAWANN KAU INI KENAPA SIH KAWAN???
 
-!Kadang IKAL akan terbangun di tengah malam dengan nafas terengah-engah, kaus kutang IKAL basah karena keringat]
+!SYAHDAN mendengus. IKAL masih diam saja.
 
-[ini di hari ketiga] [[tambah action]] !Di hari ketiga MAHAR, SYAHDAN dan A KIONG tiba-tiba muncul, menerobos pintu kamar IKAL.
+                SYAHDAN
+    Kau ini macam orang kerasukan saja, hey Ikal! Kutinggal lo! Pulanglah dengan kaki kau!
+
+!SYAHDAN melangkah keluar panggung dengan bersungut-sungut, tak habis pikir.
+
+>CUE MUSIK SEDIH [[mau apa hayo]]
+
+                IKAL
+                [[start puisi nanti]]
+
+! MAHAR, SYAHDAN dan A KIONG tiba-tiba muncul, menerobos pintu kamar IKAL.
 
 !MAHAR mengenakan jas panjang dan menenteng tas koper.
                 MAHAR
@@ -1487,11 +1505,40 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 !KUCAI berdiri serentak diikuti anak lain.
 
                 KUCAI
-    Selamat pagi, Ibunda Guru!
+   PAGI, Ibunda Guru!
+
+                ANAK-ANAK
+    SE-LA-MAT PA-GI IBUNDA GURUUU
 
                 BU MUSLIMAH
-            (Bu Muslimah datang sambil menempel poster)
-    Selamat pagi ananda semua, dan juga, (!)
+            (Bu Muslimah datang sambil menenteng poster)
+    Selamat pagi anak-anakku. Duduklah semua. Tak penasarankah kalian dengan apa yang Ibu bawa ini?
+
+!ANAK-ANAK mulai ribut, ANAK-ANAK melongok ke poster yang BU MUSLIMAH bawa.
+                
+                A KIONG
+    Ah hanya kertas begitu saja Ibunda Guru! Kalau hadiah kenapa tak kasih ciki saja!
+
+                SYAHDAN
+    Aish A Kiong! Jagalah mulut kau kalau bicara dengan Ibunda Guru! Aku tahu, Ibunda, pasti itu poster Bang Rhoma yang baru kan? 
+    ~rambate rata hayo~
+    ~singsingkan lengan baju kalau kita mau maju~
+    ~hidup didunia tidaklah sendirian~
+     ASEKK!! 
+
+!ANAK-ANAK tertawa.
+
+                BU MUSLIMAH
+                (tertawa)
+    Salah dan salah! Masih salah, Ananda Syahdan, dan tak tahukah kalian ciki itu akan membuat kalian batuk-batuk? 
+
+                BU MUSLIMAH
+    Pertama, Ibu sangat bangga dengan kemenangan kalian di festival kalian kemarin. Marvelous! Kalian sudah bisa membuktikan pada dunia bahwa sekolah kita masih bisa berprestasi, bahwa kita masih ada dan dapat melawan! Dan bukankah menang terasa sangat manis?
+
+!ANAK-ANAK berseru menyetujui. MAHAR mengangguk kalem.
+
+                BU MUSLIMAH
+    Karenanya, Ibu sudah memutuskan.
 
 !BU MUSLIMAH menempel poster cerdas cermat ke papan dengan suara berdebam.
 
@@ -1505,7 +1552,13 @@ WULAN menunjuk AWANG yang memegang layangan robek.
                 BU MUSLIMAH
     Kita tunjukkan bahwa kita punya nyali tuk menghadapi anak sekolah lain di akademik! Ikal, Lintang, Sahara, kemarilah nak!!  
 
-[[ditambah action lgi yah]]
+!IKAL melompat dari tempat duduknya, menggeret LINTANG yang terlihat tegang.
+                 IKAL
+    BOY!! BANGKITLAH BOY! INI KESEMPATAN KITA KALAHKAN ANAK-ANAK CONGKAK ITU BOY!
+
+!IKAL menggeret lengan LINTANG yang terlihat gamang.
+
+
 
 !IKAL, LINTANG, dan SAHARA maju. 
 
@@ -1514,11 +1567,6 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 [[nti habis musikal ada action sm dialog "ayo lawan" gt yah pokoke]]
 
 >TRANSISI KE CERDAS CERMAT
-
-[[spesifik lagi dong]] [[w belum terlalu kebayang jujur, kalo mereka out stage dulu bisa ga yo]]
-
-![[tambahin action lagi di sini]]
-
 
 !IKAL menggaet lengan SAHARA dan LINTANG ke meja mereka di pertandingan.
 
@@ -1655,11 +1703,11 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 >lights out
 .INT./EXT. RUMAH LINTANG - "BINTANG YANG PADAM" #10#
 
-***PROPERTI:***
+***PROPERTI: Medali emas, tas***
 
 !ANAK-ANAK mengarak LINTANG ke rumahnya di pesisir.
 
-!LINTANG masuk rumah menenteng medali emas dengan senyum merekah lalu bergegas ke teras belakang rumah, tempat menyimpan jala di mana AYAH LINTANG biasa berada.
+!LINTANG masuk rumah menenteng medali emas dan tas dengan senyum merekah lalu bergegas ke teras belakang rumah, tempat menyimpan jala di mana AYAH LINTANG biasa berada.
 
                 LINTANG
     Lihatlah!! Ayahanda! Lihatlah medali Lintang!
@@ -1692,30 +1740,60 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 !LINTANG menerobos warga lainnya.
 
                 LINTANG
-            (dengan suara bergetar)
+            (dengan suara bergetar, mendesahkan napas lega)
     Bukan... Bukan ayah...
 
-!LINTANG mendesis, namun LINTANG meenggenggam erat lengan WULAN.
+!LINTANG mendesis. NELAYAN 1 yang melihat LINTANG tiba-tiba menggenggam tangan LINTANG.
 
                 NELAYAN 1
     Kau... kau anak Pak Rohmat [[placeholder]] kan? Bujang... Bujang... Bapakmu..
 
 !NELAYAN mulai menangis lagi.
 
-!LINTANG diam saja dan melangkah ke depan panggung. LINTANG mengeluarkan kertas dan pensil dari tas dan mulai menulis. [[MENULIS SURAT SAMBIL MEMBACA ISINYA]]
+!LINTANG diam saja dan melangkah ke depan panggung. LINTANG mengeluarkan kertas dan pensil dari tas dan mulai menulis. 
+!LINTANG membaca surat yang LINTANG tulis. 
+
+                LINTANG
+                (sesenggukan)
+    Ibunda Guru, Ayahku sudah meninggal. Besok aku akan ke sekolah. Tertanda, Lintang.
 
 >BLACKOUT
 >SET PINDAH KE SEKOLAH
+[[ini mau disetel musik yang sedih ga ya]]
+
+!ANAK-ANAK sedang berhitung dengan lidi. IKAL terlihat bosan dan berulangkali melihat bangku di sebelahnya yang kosong. 
 
                 BU MUSLIMAH
-    [[tulis dialognya nanti sini]]
+                (cemas)
+    Sudah seminggu Lintang tak masuk...Ikal, sudahkah kau mendengar darinya?
 
-!NELAYAN mengangguk lesu, BU MUSLIMAH membuka surat tersebut dikerumuni ANAK-ANAK Laskar Pelangi lainnya.
+!MAHAR berceletuk
 
+                MAHAR
+    Padahal anak itu tak pernah bolos walau bertemu buaya, Kal. Walau aku tak mengerti, rindu juga aku dengan celotehannya.
 
-                LINTANG
-            (Lintang terlihat berusaha tersenyum, namun ia terus-terusan menunduk)
-    
+!IKAL menggeleng.
+
+                IKAL
+    Tak tahu, Ibunda Guru. Aku juga tidak melihatnya di pasar ikan belakangan ini, tetapi kudengar badai sedang mengamuk di pesisir, barangkali pohon besar menghalangi jalannya--
+
+!SAHARA berteriak, menunjuk ke LINTANG yang masuk
+
+                SAHARA
+    LINTANG! LINTANG!!!
+
+!LINTANG melambaikan tangan dengan lesu, LINTANG masuk membawa surat di tangan dan wajah yang pucat pasi.
+               
+                BU MUSLIMAH
+    Lintang, nak, kau baik-baik saja kan? Ibu sempat khawatir karena kau tidak masuk lama sekali...
+
+!BU MUSLIMAH menghampiri LINTANG, mengelus bahu LINTANG dengan raut muka lega.
+!LINTANG menyerahkan surat yang LINTANG bawa ke BU MUSLIMAH.
+!LINTANG terlihat berusaha tersenyum, namun ia terus-terusan menunduk. BU MUSLIMAH membaca surat dari LINTANG.
+
+                BU MUSLIMAH
+                (suara kecil)
+                'Ibunda Guru, Ayahku sudah meninggal. Besok aku akan ke sekolah. Tertanda, Lintang.' Lintang, nak...ini artinya kau...
 
 !BU MUSLIMAH tersedu, menggenggam erat surat tersebut dan bersimpuh.
 
