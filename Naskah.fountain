@@ -15,7 +15,7 @@ Source: Based on Laskar Pelangi
 
                 AYAH LINTANG
         (dengan penuh harap)
-    Bujangku, tak usahlah kau peduli dengan bekerja. Jadilah anak pintar, janan seperti ayah yang tak mengenal bangku sekolah. Berangkatlah, ilmu telah menunggumu.
+    Bujangku, tak usahlah kau peduli dengan bekerja. Jadilah anak pintar, jangan seperti ayah yang tak mengenal bangku sekolah. Berangkatlah, ilmu telah menunggumu.
 
 !Mengangkat jaring sembari menepuk dan menggenggam bahu LINTANG dengan ekspresi campur aduk— takut, khawatir. Selanjutnya AYAH LINTANG pergi meninggalkan LINTANG.
 
@@ -41,6 +41,7 @@ Source: Based on Laskar Pelangi
 
 !PAK HARFAN dan BU MUSLIMAH terlihat cemas, berulang kali melihat jam tangan di tangan. Gerak-geriknya berulang kali menengok ke arah luar. Entah mencari-cari atau menunggu seseorang entah siapa.
 
+>SFX/MUSIK
 [[tambahin sfx/musik buat mengisi keheningan]]
 
 !Sementara di salah satu bangku, IKAL sedang duduk bersama AYAH IKAL. IKAL terlihat bingung. IKAL melihat kesana dan kemari memperhatikan temannya satu persatu. Dan berakhir melirik ke teman sebelahnya, LINTANG.
@@ -128,9 +129,11 @@ Source: Based on Laskar Pelangi
 
 !HARUN melambaikan tangannya dan berlari ke arah panggung. 
                 HARUN
-    Kawan-kawan!! Tunggu akuuu!!! [[musik mulai setelah line ini?]]
+    Kawan-kawan!! Tunggu akuuu!!!
 
 !Semua ANAK-ANAK termasuk orang tua, BU MUSLIMAH serta PAK HARFAN menari bersama dengan gembira.
+
+===
 
 .INT./EXT. RUANG KELAS/LUAR KELAS - "PEMILIHAN KETUA KELAS" #1#
 
@@ -296,10 +299,12 @@ Source: Based on Laskar Pelangi
 
 !IKAL melihat ke arah penonton.
 
-                IKAL (V.O.)
+                IKAL 
+
     Pelajaran pertama bagi diriku di sini, jika tak pandai sholat, maka setidaknya pandai-pandailah berenang.
 
 >BLACKOUT
+===
 
 .INT. RUMAH LINTANG - "TENTANG LINTANG" #2#  
 
@@ -371,6 +376,7 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 !MATEMATIKAWAN berdansa ria di belakang Lintang yang sedang belajar, sesumbar tentang LINTANG dan temuan mereka.
 
 !MATEMATIKAWAN keluar stage setelah menyelimuti LINTANG dengan sarung
+===
 
 .INT. TOKO KELONTONG SINAR HARAPAN - "A LING DAN IKAL" #3#
 
@@ -520,12 +526,13 @@ WULAN menunjuk AWANG yang memegang layangan robek.
     Berat rupanya ku tengok. Bawa apa itu paman?
 
                 KULI PANGGUL
+                (ketus)
     Bawa nama baik keluarga.
 
 !IKAL yang mendengar hanya menggelengkan kepala.
 
                 IKAL
-    A miaw! Kapur untuk BU MUSLIMAH!
+    A Miaw! Kapur untuk BU MUSLIMAH!
 
                 A MIAW
     KAPUR TULIS SD MUHAMMADIYAH! Kau ambilah di belakang, di biasanya.
@@ -543,7 +550,7 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 
 !A LING keluar dari ruangan dan membantu IKAL untuk menata kapur yang terjatuh.
 
-!IKAL hilang fokus, tangannya membeku dan tidak bisa bergerak m
+!IKAL hilang fokus, tangannya membeku dan tidak bisa bergerak
 
 !IKAL hanya bisa menatap A LING.
 
@@ -671,8 +678,27 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 !KUCAI membuka surat itu perlahan. IKAL mengintip surat tersebut 
 [[isinya awardee, tolong gmn yah bingung]]
 
+                KUCAI
+    no..mi..ini bacanya apa ikal?? terlalu banyak huruf aku pusingg
+
+                 IKAL
+    selama ini kamu belajar apa sih di sekolah? sini biar aku baca
+
+!IKAL mengambil alih surat tersebut dan mulai membaca perlahan!
+
+                IKAL
+n o no m i mi...
+
+!KUCAI yang geram pun merebut surat tersebut dari IKAL!
+
+                KUCAI
+lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi... 
+[[pake nada ooh nya aaliyah]]
+
+
 >TRANSITION [TBA] [[biar gak lupa]]
 
+===
 .INT. RUANG KELAS - "DUA PILAR SANG JENIUS KELAS" #4#
 
 ***PROPERTI : Papan tulis, meja, kursi, lidi***
@@ -869,6 +895,7 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 
 
 >TRANSITION [TBA]
+===
 
 .EXT. PASAR MALAM - "PASAR MALAM DAN SEMBAHYANG REBUT" #5#
 
@@ -1031,7 +1058,7 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 !A LING menerima boneka yang diberikan IKAL lalu mereka bergandengan tangan dan keluar dari stage.
 
 >LIGHTS OUT
-
+===
 .INT/EXT. LUAR KELAS - "PERSIAPAN KARNAVAL" #6#
 
 ***PROPERTI : Papan Tulis pake asturo hitam, Kapur***
@@ -1296,7 +1323,7 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 !SAHARA mengepalkan tangannya sambil tersenyum geram.
 
 >BLACKOUT
-
+===
 .INT/EXT. [TBA] - "HARI KARNAVAL" #7#
 
 ***PROPERTI :***
@@ -1361,6 +1388,13 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 
 !Setelah MAHAR selesai mengalungkan kalung buatan tangannya, rombongan peserta dari SD Muhammadiyah mulai bergerak menuju lokasi pertunjukkan.
 
+[[Di saat yang lain sibuk memakai kalung, KUCAI juga sibuk menyembunyikan ... yang dibawanya
+               IKAL
+eh kucai, apa yang kau sembunyikan itu?
+
+                KUCAI
+shuss kamu diem, ini sesuatu berharga dan gaboleh hilang ini
+
                 MC
     Dan kini tiba saatnya penampilan dari SD Muhammadiyah!
 
@@ -1387,9 +1421,24 @@ WULAN menunjuk AWANG yang memegang layangan robek.
                 MAHAR
     Itulah. Percayalah padaku, dan kita akan bangkit perlahan-lahan!
 
-[[ending anak SD Muhammadiyah gatal-gatal karena kalung, mereka berlarian keluar dari stage ke bench pemirsa. Maybe jika memungkinkan secara struktur stagenya, anak SD Muhammadiyah keluar dari pintu utama]]
+[[ending anak SD Muhammadiyah gatal-gatal karena kalung, mereka berlarian keluar dari stage ke bench pemirsa. Maybe jika memungkinkan secara struktur stagenya, anak SD Muhammadiyah keluar dari pintu utama. Kucai yang terburu buru pun meninggalkan barang yang ia bawa sebelumnya]]
 
-[[di sini bakal ada awarding ya ges]]
+                MC
+ anak anak kalian mau kemana?! anak anaaakk!!
+
+ [[MC yang melihat barang kucai ketinggalan pun mengambil barang tersebut]]
+
+                MC
+barang apa ini?? punya siapa ini?? kenapa ada disini??
+[[MC perlahan lahan membuka amplop tersebut]]
+
+                MC
+nominasi .....
+
+
+
+[[
+===
 .INT. TOKO KELONTONG/RUMAH LINTANG - "IA PERGI KE EDENSOR" #8#
 
 ***PROPERTI : Koper, kunir, pisau kecil, semprotan air untuk bunga, Buku Seandainya Mereka Bicara***
@@ -1429,7 +1478,7 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 !IKAL menerimanya dengan mata menahan tangis. IKAL berjalan ke tengah panggung dengan buku A LING, IKAL bersimpuh
 
->LIGHTS DIM [[??]]
+>LIGHTS DIM [[??]] [[PROPERTI OUT]]
 >FOLLOW LIGHTS IKAL
                 
                 SYAHDAN
@@ -1495,10 +1544,10 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 !MAHAR, A KIONG, dan SYAHDAN keluar panggung dengan melenggang, sementara IKAL dibuat bengong.
 
 >LIGHTS OFF
-
+===
 .INT. RUANG KELAS - "CERDAS CERMAT" #9#
 
-***PROPERTI : Tombol di tengah meja, meja, kursi, taplak meja, poster, banner supporter sekolah***
+***PROPERTI : Tombol di tengah meja, meja, kursi, taplak meja, poster, banner supporter sekolah, bel***
 
 !BU MUSLIMAH masuk kelas dengan semangat menggebu.
 
@@ -1556,16 +1605,22 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
                  IKAL
     BOY!! BANGKITLAH BOY! INI KESEMPATAN KITA KALAHKAN ANAK-ANAK CONGKAK ITU BOY!
 
-!IKAL menggeret lengan LINTANG yang terlihat gamang.
+                LINTANG
+    Tak tahulah boy...entah kenapa aku tak yakin
 
+!MAHAR tertawa, menepuk keras bahu LINTANG.
 
+               MAHAR
+    AH! Kau orang terpintar yang kutahu setelah Almarhum Albert Einstein, Boy! Aku yakin kau pasti bersinar!
 
-!IKAL, LINTANG, dan SAHARA maju. 
+ !IKAL menggeret lengan LINTANG yang terlihat gamang. BU MUSLIMAH, IKAL, dan MAHAR [[???siapa aja yo]] berusaha meyakinkan LINTANG untuk ikut. 
+               
+                (lagu _JATUH, BANGKIT KEMBALI_ diputar)
 
-!Musikal BU MUSLIMAH meyakinkan dan mendorong mereka untuk belajar.
+            ANAK-ANAK
+    AYO KITA LAWAN!!!
 
-[[nti habis musikal ada action sm dialog "ayo lawan" gt yah pokoke]]
-
+>LIGHTS OFF
 >TRANSISI KE CERDAS CERMAT
 
 !IKAL menggaet lengan SAHARA dan LINTANG ke meja mereka di pertandingan.
@@ -1623,7 +1678,7 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
                 LINTANG
     two hundred and fifty joules! Work equals force times distance times value of sixty cosine equals two hundred and fifty Joules!
 
-!LINTANG menyambar jawaban dengan cepat saat lawannya masih sibuk mencorat-coret kertas.
+!LINTANG menyambar bel dengan cepat saat lawannya masih sibuk mencorat-coret kertas.
 
 !Kontestan SD PN melempar pensil mereka, kesal.
 
@@ -1700,7 +1755,9 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 
 !Mereka keluar gedung dengan arakan yang meriah layaknya atlit yang baru saja menang olimpiade.
 
->lights out
+>LIGHTS OUT
+
+===
 .INT./EXT. RUMAH LINTANG - "BINTANG YANG PADAM" #10#
 
 ***PROPERTI: Medali emas, tas***
@@ -1842,5 +1899,5 @@ Seorang super-genius, anak dari pulau terkaya di Indonesia ini, berhenti sekolah
                 (berteriak dengan penuh rasa marah dan kecewa)
     Katanya kau punya mimpi?! Sekarang akankah kau menyerah begitu saja?!?! Jawab boy!!
 
-!IKAL yang sesenggukan mengikuti LINTANG intang yang pergi dengan mengusap air mata. Masih berusaha menahannya.
+!IKAL yang sesenggukan mengikuti LINTANG yang pergi dengan mengusap air mata. Masih berusaha menahannya.
 
