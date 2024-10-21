@@ -21,6 +21,7 @@
     - Perbaiki dialog  + aksi (detailing etc)
 - Naja
     - Perbaiki scene pre-karnaval dan karnaval
+    - tambahin dialog di scene 4 setelah pelajaran agama
 - Rayya
     - Ngurus merging dan conflict
 
