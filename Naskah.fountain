@@ -1375,7 +1375,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !DRUMMER 1 dan DRUMMER 2 langsung kaget terdiam.
 
-!FLO menunjuk DRUMMER 1 dengan tatapan kesal.
+!FLO menunjuk-nunjuk DRUMMER 1 dengan tatapan kesal.
 
                 FLO
         KAMU YA, MENGANGGAP DIRIMU DRUMMER TERBAIK TAPI MUKUL DRUM AJA MASIH SUKA LEPAS KENDALI! MANA KAMU JUGA MASIH SERING KETINGGALAN NADA SAMA YANG LAINNYA LAGI!
@@ -1383,9 +1383,30 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !Protes dari FLO tiba-tiba disanggah oleh FLAGGER 1.
 
             FLAGGER 1
+        Hey, Flo! Kamu ini ngomong seperti kamu bisa memutar bendera itu dengan benar saja! Sudah seminggu sampai pertunjukkan mau dimulai dan kamu nih masih saja tak becus melempar!
          Hey, Flo! Kamu ini ngomong seperti kamu bisa memutar tongkat itu dengan benar saja! Sudah seminggu sampai pertunjukkan dan masih saja tak becus melempar!
 
-             PIANIKA 1 
+            PIANIKA 1 
+            (dengan nada sarkas)
+        Hey, kamu memangnya mau kena lemparannya? Lemparannya kan udah jago dari awal, jadi hati-hati aja kamu kalau bicara tentang MAYORET JAGO kita gitu loh.
+
+!FLO terpancing dengan ucapan PIANIKA 1
+
+            FLO
+            (Tersinggung)
+        Maksud kamu apa ya?!
+
+            PIANIKA 1
+        Ya, menurut kamu sendiri gimana, JA-GO-AN?
+
+            FLO
+        Aku?
+
+!FLO terdiam dengan heran, tapi FLAGGER 1 lanjut menyindir.
+
+            FLAGGER 1
+        Orang kalau memang ga bisa ya belaja
+ ggnay gnaro ada anaM !hal asib epmas ulud 
 
 
 !        
@@ -1869,7 +1890,7 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 !SYAHDAN melangkah keluar panggung dengan bersungut-sungut, tak habis pikir.
 
->CUE MUSIK SEDIH [[mau apa hayo]]
+>CUE MUSIK SEDIH 
 
                 IKAL
                 [[start puisi nanti]]
@@ -2174,7 +2195,7 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 !LINTANG mendesis. NELAYAN 1 yang melihat LINTANG tiba-tiba menggenggam tangan LINTANG.
 
                 NELAYAN 1
-    Kau... kau anak Pak Rohmat [[placeholder]] kan? Bujang... Bujang... Bapakmu..
+    Kau... kau anak Pak Rohmat kan? Bujang... Bujang... Bapakmu..
 
 !NELAYAN mulai menangis lagi.
 
