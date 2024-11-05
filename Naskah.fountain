@@ -42,7 +42,7 @@ Source: Based on Laskar Pelangi
 !PAK HARFAN dan BU MUSLIMAH terlihat cemas, berulang kali melihat jam tangan di tangan. Gerak-geriknya berulang kali menengok ke arah luar. Entah mencari-cari atau menunggu seseorang entah siapa.
 
 >SFX/MUSIK
-[[tambahin sfx/musik buat mengisi keheningan]]
+
 
 !Sementara di salah satu bangku, IKAL sedang duduk bersama AYAH IKAL. IKAL terlihat bingung. IKAL melihat kesana dan kemari memperhatikan temannya satu persatu. Dan berakhir melirik ke teman sebelahnya, LINTANG.
 
@@ -103,7 +103,7 @@ Source: Based on Laskar Pelangi
 
 !PAK HARFAN berjalan ke depan para siswa dan orang tua.
 
-    [[general light berubah dari redup jadi terang]]
+>GENERAL LIGHT SHIFT DARI REDUP KE TERANG
 
                 PAK HARFAN
     Assalamualaikualaikum Warahmatullah Wabarakatuh
@@ -124,7 +124,7 @@ Source: Based on Laskar Pelangi
 !HARUN berlari datang dari arah penonton.
 
                 IKAL
-            (Sembari dimainkan _SAHABAT ALAM_)
+            (Sembari dimainkan _SAHABAT ALAM_ )
     Harun! Itu dia, ada Harun!
 
 !HARUN melambaikan tangannya dan berlari ke arah panggung. 
@@ -132,6 +132,21 @@ Source: Based on Laskar Pelangi
     Kawan-kawan!! Tunggu akuuu!!!
 
 !Semua ANAK-ANAK termasuk orang tua, BU MUSLIMAH serta PAK HARFAN menari bersama dengan gembira.
+
+                    (Dialog di tengah _SAHABAT ALAM_)
+
+                SYAHDAN 
+    LIHATLAH KAWAN!! ADA PELANGI!!
+
+!SYAHDAN menunjuk ke pelangi
+
+                ANAK-ANAK
+    Indah sekali!!
+
+                BU MUSLIMAH
+    Pelangi terlihat indah karena ragam warnanya, seperti kalian yang indah bersama...LASKAR PELANGI!
+
+
 
 ===
 
@@ -371,7 +386,7 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 >LIGHTS OUT
 >SOUND OUT
 
-![[VISUALISASI LINTANG BELAJAR DENGAN TOKOH MATEMATIKAWAN]]                
+!VISUALISASI LINTANG BELAJAR DENGAN TOKOH MATEMATIKAWAN          
 
 !MATEMATIKAWAN berdansa ria di belakang Lintang yang sedang belajar, sesumbar tentang LINTANG dan temuan mereka.
 
@@ -496,7 +511,6 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 !Di sepanjang jalan menuju toko, banyak orang berlalu lalang. Seperti para penjual, para nelayan yang sedang membawa jala, dan masih banyak lagi. [tentatif]
 
 !SYAHDAN bersenandung melantunkan Lagu _KATA PUJANGGA_. Beberapa penduduk yang berlalu-lalang ikut bersenandung dan sesekali berjoget bersama.
-
                 SYAHDAN
         (menyanyi)
     ~"Hidup tanpa cinta bagai taman tak berbunga"
@@ -505,10 +519,6 @@ WULAN menunjuk AWANG yang memegang layangan robek.
     ~Hai, begitulah kata para pujangga
     ~Aduhai, begitulah kata para pujangga
     ~(Taman suram tanpa bunga)
-    ~Ada yang dicinta, giat bekerja
-    ~Entah apa, entah siapa
-    ~Karena cinta, jiwa gairah
-    ~Tanpa cinta, hidup pun hampa
 
 
 !SYAHDAN dan IKAL sampai di Toko Sinar Harapan itu.
@@ -676,7 +686,6 @@ WULAN menunjuk AWANG yang memegang layangan robek.
         Sabarlah sedikit. Ini aku buka. 
 
 !KUCAI membuka surat itu perlahan. IKAL mengintip surat tersebut 
-[[isinya awardee, tolong gmn yah bingung]]
 
                 KUCAI
     no..mi..ini bacanya apa ikal?? terlalu banyak huruf aku pusingg
@@ -693,8 +702,8 @@ n o no m i mi...
 
                 KUCAI
 lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi... 
-[[pake nada ooh nya aaliyah]]
 
+!PENGUMUMAN NOMINASI
 
 >TRANSITION [TBA] [[biar gak lupa]]
 
@@ -884,16 +893,26 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !Saat di depan kelas, MAHAR diam memandangi murid-murid cukup lama hingga akhirnya memalingkan wajah ke arah BU MUSLIMAH sambil tersenyum kecil dan memberi hormat.
 
                 MAHAR
-            (lagu _[TBA]_ diputar)
-    Aku akan membawakan sebuah lagu tentang [TBA]. 
-    
+            (lagu _CAN'T HELP FALLING IN LOVE_mulai diputar)
+    Lagu yang akan kubawakan ini, menceritakan soal bodohnya seseorang saat mereka tengah dimabuk asmara, terjerat oleh cintanya sendiri pada sang Kasih
 
+!MAHAR dengan syahdu mulai memainkan gitarnya. BU MUSLIMAH yang daritadi khusyuk mendengarkan, mulai bersyair.
+
+            BU MUSLIMAH
+    Jalan ke ladang berliku-liku,
+    Janganlah kau lewat hutan cemara
+    Cepatlah kau nyanyikan lagumu
+    Agar kutahu bagaimana kau merana
+
+!MAHAR tersenyum ke BU MUSLIMAH dan mengangguk. 
+            
+            MAHAR
+    Terimakasih, Ibunda Guru 
+
+!MAHAR mulai menyanyikan lagu _CANT HELP FALLING IN LOVE_
 !Perhatian satu kelas tertuju pada MAHAR.
 
-!MAHAR mengambil napas dalam-dalam.
-!ANAK-ANAK beranjak dan dance, kecuali HARUN yang masih tertidur pulas.
-
-
+>FADES OUT 
 >TRANSITION [TBA]
 ===
 
@@ -980,7 +999,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
                 IKAL
     Ini, benar darimu, kan?
 
-!A LING tersenyum dan mengangguk, tangan IKAL gemetar. A LING mengambil surat yang IKAL keluarkan dan berjalan mengajak IKAL mengelilingi Pasar Malam. [[hayolo transisi gimana]]
+!A LING tersenyum dan mengangguk, tangan IKAL gemetar. A LING mengambil surat yang IKAL keluarkan dan berjalan mengajak IKAL mengelilingi Pasar Malam.
 
                 A LING
     Ikal, lihat pemain musik itu. Mereka terlihat sangat lihai. Apa kamu suka bermain musik?
@@ -1073,7 +1092,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !PAK HARFAN Menerima kapur yang dibawa BU MUSLIMAH.
 
                 PAK HARFAN
-    Terima kasih. Jadi, alasan saya mengumpulkan kalian semua di sini adalah untuk ini.
+    Terima kasih, Mus. Anak-anak yang Bapak cintai, alasan saya mengumpulkan kalian semua di sini adalah untuk ini.
 
 !PAK HARFAN Menuliskan kata “Karnaval 17 Agustus” dengan besar, lalu mengucapkan dengan lantang.
 
@@ -1120,7 +1139,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
     Rek, kau merasa ada yang aneh kah dengan dia?
 
                 BOREK
-    Hooh, terlalu aneh melihatnya tiba-tiba jadi pendiam.
+    Hooh, terlalu aneh melihatnya tiba-tiba jadi pendiam, merinding aku!
 
                 A KIONG
     Siapa yang kalian maksud itu?
@@ -1128,17 +1147,18 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !SAHARA Kebetulan mendengar A KIONG bertanya dari bangkunya.
 
                 SAHARA
-    Kau ini tak paham yang dimaksud, hah?
+                (dengan nada ketus)
+    Kau ini tak paham yang dimaksud, hah? Haish...tapi wajarlah saja Mahar jadi diam seribu bahasa macam pasien kena bius kalau disuruh ikut karnaval begitu...
 
 !BU MUSLIMAH kembali dengan wajah yang gelisah
 
                 BU MUSLIMAH
-    Anak-anak, karena Ibu ada keperluan mendadak, dan waktu sudah mau dzuhur, maka kita akhiri saja kelas ini ya?
+    Anak-anak, karena Ibu ada keperluan mendadak, dan waktu sudah mau dzuhur, maka kita akhiri saja kelas ini ya? Kalian gunakanlah waktu untuk pikirkan karnaval, Ibu percaya dengan kalian.
 
-!MAHAR masih tetap melamun, HARUN seketika tidur, dan ANAK-ANAK lainnya langsung kecewa. [[kepanjangan nggak yo? Nek iya tak ubah lagi]]
+!MAHAR masih tetap melamun, HARUN seketika tidur, dan ANAK-ANAK lainnya langsung kecewa. 
 
                 ANAK-ANAK
-            (Kecewa berad)
+            (Kecewa berat)
     Yahhh ....
 
                 BU MUSLIMAH
@@ -1157,16 +1177,45 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !ANAK-ANAK kaget dengan tingkah MAHAR.
 
-!BOREK dan LINTANG menuju halaman sekolah.
+!BOREK, LINTANG, SAHARA, dan IKAL menuju halaman sekolah.
 
                 BOREK
                 (meledek)
     Lihat si aneh itu, tiba-tiba berteriak sana-sini tak jelas sedikitpun.
 
+!LINTANG mengangkat bahu, sama-sama keheranan. 
                 LINTANG
     Bagaimanapun, dia sedang memikirkan konsep karnaval nanti rek. Mungkin ...
 
-!BOREK menunjukkan otot lengannya sambil meringis.
+               SYAHDAN
+    Ey Ikal, Lintang yakinkah kita mau ikut karnaval tahun ini? Kalau hanya mau tampil pakai seragam buruh bapakku saja tak maulah aku! 
+
+!SAHARA yang ikut mendengar mengangguk.
+
+                SAHARA
+             2   (nada pesimis)
+    Tiap tahun kita hanya jadi penggembira sementara piala selalu saja dibawa pulang PN Timah...aku tak yakin, bahkan dengan kemampuan Mahar akan mustahil mengalahkan mereka
+
+!A KIONG ceplas-ceplos menanggapi SAHARA
+
+                A KIONG
+    Ah Sahara! Kau ini selaluuu saja pesimis dan pahit! Apa bedanya kau dan nasi yang terlewat gosong?
+
+!A KIONG, LINTANG, SYAHDAN, BOREK, dan IKAL tertawa. Namun, SAHARA tak senang, mukanya mengerut.
+
+                SAHARA
+    Sekali lagi kau buka mulutmu yang tak bisa diatur itu...awas saja!
+
+!SAHARA mengepalkan tangannya, mengancam A KIONG dengan wajah yang marah. A KIONG berlindung di balik IKAL.
+
+                A KION
+    AMPUN!!!
+
+                IKAL
+    Aku...ingin percaya pada Mahar, tapi kalau kita datang lagi tahun ini hanya untuk menelan kekalahan lagi...
+
+
+!BOREK terkekeh, menunjukkan otot lengannya sambil meringis.
 
                 BOREK
     Kalau mau karnaval kita nanti kelihatan bagus, mending tunjukkan saja otot-otot pejuang ini!
@@ -1174,7 +1223,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !LINTANG memandang BOREK dengan heran, lalu menyikut BOREK dengan pelan.
 
                 LINTANG
-    Ada-ada saja lah kau ni, rek.
+    Ada-ada saja lah kau ni, rek. 
 
 !BOREK hanya terkekeh sambil melihat otot tangan yang dipamerkan, lalu pergi sambil bersenandung.
 
@@ -1186,17 +1235,33 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
                 (Kaget)
     EH?! Mau ngapain kau, Rek?!
 
-!Menunjuk ke arah pintu utama [[Tergantung stage]]
+!Menunjuk ke arah pintu utama
 
                 BOREK
     Ayo, tang. Kutunjukkan sesuatu yang bagus di sana.
 
 !LINTANG ditarik keluar oleh BOREK menuju pintu utama, lalu MAHAR pun keluar dari stage secara bersamaan.
 
+                SYAHDAN
+    Hey, tunggu!! Kok Lintang saja yang diajak? Aku juga mau lihat! A Kiong, Ikal, ayolah!
+
+!SYAHDAN mengikuti sembari menyeret A KIONG DAN IKAL. 
+
+                SAHARA
+                (bersungut)
+    Dasar bocah-bocah kekanakan....sama sekali tak dewasa, huh!
+
+!SAHARA keluar panggung dengan menyilangkan tangan dan bersungut.
+
+>SHIFT WAKTU KE SORE HARI
+
 !MAHAR pun datang ke halaman sekolah bersama dengan semua ANAK-ANAK di sore harinya.
 
                 A KIONG
     Har, kamu mau kasih tahu kami apa sampai di bawa ke halaman sekolah ini?
+
+                SYAHDAN
+    Ah malas aku Har kalau kau suruh kami pakai baju petani macam tahun lalu...paling-paling kita akan kalah lagi tahun ini...
 
 !MAHAR merentangkan tangan.
 
@@ -1209,15 +1274,10 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
                 MAHAR
     Tahun yang dinanti-nanti ... TAHUN BANGKITNYA SD KITA KE SELURUH PENJURU DUNIA!!!
 
-!Semakin penasaran, semua murid memandang MAHAR dengan tegang.
-
-                ANAK-ANAK
-    Apa itu, Har?
-
-!MAHAR tersenyum puas.
+                        (LAGU MAHAR_DAN_ALAM  mulai diputar)
 
                 MAHAR
-    Hehehe, kalian akan tampil dalam koreografi massal [[bikin orisinil atau ngikut di buku ini?]]
+    Hehehe, kalian akan tampil dalam koreografi massal
 
 !ANAK-ANAK tercengang, sontak bertepuk tangan dan bersorak riah dengan gagasan itu.
 
@@ -1247,6 +1307,8 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
     Iyalah! Langsung saja, kita mulai pemanasan dulu, oke?
 
 !ANAK-ANAK melakukan pemanasan sesuai arahan MAHAR, kecuali HARUN dan SAHARA
+
+!MAHAR mulai menyanyikan lirik _MAHAR DAN ALAM_ [[revisit]]
 
 !Setelah selesai pemanasan, MAHAR mulai mengajari sambil memperagakan.
 
@@ -1285,42 +1347,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !Setelah MAHAR memarahi KUCAI, ANAK-ANAK mulai latihan kembali. Setelah latihan beberapa kali, MAHAR berteriak.
 
-                MAHAR
-    Kawan-kawan! Kita istirahat dulu yuk!
-
-!ANAK-ANAK pun langsung duduk dan meluruskan kaki.
-
-!MAHAR yang masih berdiri melihat ANAK-ANAK yang duduk kelelahan setelah latihan
-
-                MAHAR
-    Kerja bagus kalian.
-
-!SEMUA tersenyum walau kelelahan setelah dipuji.
-    
-                MAHAR
-    Dua minggu lagi adalah waktu penentuan kita. Kita harus melakukan yang terbaik untuk karnaval nanti. Seperti para pelaut yang terdampar di sekolah perawat kawanku! Kerahkan semua hasil jerih payah kalian dan buktikan bahwa kita bisa kawan!
-
-!ANAK-ANAK tampak kagum dengan kalimat MAHAR.
-
-                IKAL
-    Wah Mahar, tak kusangka kau bisa menemukan kata-kata itu.
-
-!A KIONG berbalik menghadap BOREK.
-
-                A KIONG
-    Rek, aku balu tahu kalau di Belitong ada sekolah pelawat di pinggil laut
-
-!SAHARA tampak kesal dengan celetukan lugu A KIONG.
-
-                SAHARA
-    Kau tak paham kah kalau itu perumpamaan?! Banyak-banyaklah membaca buku sastra!
-
-!A KIONG berdiri lalu berbalik kebingungan menghadap penonton.
-
-                A KIONG
-    Buku sastra yang mana ya pemirsa?
-
-!SAHARA mengepalkan tangannya sambil tersenyum geram.
+!MAHAR memandu LASKAR PELANGI untuk melakukan koreografi karnaval.
 
 >LIGHTS OUT 
 >BACKGROUND SHIFT TO LAPANGAN SD PN
@@ -1338,8 +1365,6 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
                 DRUMMER 2
     Hey! Kamu kenapa sih mukul drum keras sekali?!
-
-                DRUMMER 1
                 (dengan nada memyepelekan)
     Hah?! Aku tak dengar!
 
@@ -1382,26 +1407,28 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !Protes dari FLO tiba-tiba disanggah oleh FLAGGER 1.
 
-            FLAGGER 1
-    Hey, Flo! Kamu ini ngomong seperti kamu bisa memutar bendera itu dengan benar saja! Sudah seminggu sampai pertunjukkan mau dimulai dan kamu nih masih saja tak becus melempar!
+                FLAGGER 1
+        Hey, Flo! Kamu ini ngomong seperti kamu bisa memutar bendera itu dengan benar saja! Sudah seminggu sampai pertunjukkan mau dimulai dan kamu nih masih saja tak becus melempar!
 
-            PIANIKA 1 
+                 PIANIKA 1 
             (dengan nada sarkas)
     Hey, kamu memangnya mau kena lemparannya? Lemparannya kan udah jago dari awal, jadi hati-hati aja kamu kalau bicara tentang MAYORET JAGO kita gitu loh.
 
 !FLO terpancing dengan ucapan PIANIKA 1
 
-            FLO
+                FLO
             (Tersinggung)
     Maksud kamu apa ya?!
+    
+                PIANIKA 1
+     Ya, menurut kamu sendiri gimana, JA-GO-AN?
 
-            PIANIKA 1
-    Ya, menurut kamu sendiri gimana, JA-GO-AN?
+!FLO menunjuk ke dirinya sendiri dengan raut muka bingung dan tersinggung
 
             FLO
     Aku?
 
-!FLO terdiam dengan heran, tapi FLAGGER 1 lanjut menyindir.
+!FLAGGER 1 dan anggota MARCHING BAND tertawa, FLO tampak bingung.
 
             FLAGGER 1
     Kalau memang ga bisa ya BELAJAR DULU LAH! Mana ada orang yang mau jadi mayoret tapi dianya ga bisa apa-apa!!
@@ -1432,7 +1459,9 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
             FLO
     Apasih?! Lepasin cepet!
-
+    
+[[selesaikan PERSIAPAN KARNAVAL (Madah dan Naja)]]
+        
             PIANIKA 2
     Cobalah buat selesaikan masalah ini, bukannya bikin tambah parah karena ulah kalian!
 
@@ -1530,7 +1559,8 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !Marching Band dari SD PN tampil lebih baik daripada tahun lalu. Kemudian, mereka melantunkan lagu _JAZZ SUITE NO. 1: III. FOXTROT_ dengan interpretasi yang pas.
 
-!FLO menjadi mayoret di Marching Band tersebut. [[waktu lagi marching band, FLO gagal menangkap tongkat ,mayoret yang dia lempar. hal itu menjadi pemantik keributan bagi anak sd pn]]
+!FLO menjadi mayoret di Marching Band tersebut. (waktu lagi marching band, FLO gagal menangkap tongkat ,mayoret yang dia lempar. hal itu menjadi pemantik keributan bagi anak sd pn)
+
 
 !Semua murid SD Muhammadiyah yang akan tampil kecuali SAHARA dan HARUN yang menonton dari belakang barisan penonton karnaval.
 
@@ -1568,8 +1598,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
                 LINTANG
     Apa yang kau rogoh itu?
 
-!MAHAR mengeluarkan beberapa kalung yang berduri tapi kelihatan keren. [[Monggo para sutart wkkwkw, tergantung imajinasi kalian. STC]]
-
+!MAHAR mengeluarkan beberapa kalung yang berduri tapi kelihatan keren. 
                 MAHAR
     Ini, pakailah kalung keramat ini, kawan.
 
@@ -1583,7 +1612,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !Setelah MAHAR selesai mengalungkan kalung buatan tangannya, rombongan peserta dari SD Muhammadiyah mulai bergerak menuju lokasi pertunjukkan.
 
-[[Di saat yang lain sibuk memakai kalung, KUCAI juga sibuk menyembunyikan ... yang dibawanya]]
+!Di saat yang lain sibuk memakai kalung, KUCAI juga sibuk menyembunyikan ... yang dibawanya [[REVISIT ITEM]]
                IKAL
 eh kucai, apa yang kau sembunyikan itu?
 
@@ -1657,9 +1686,7 @@ shuss kamu diem, ini sesuatu berharga dan gaboleh hilang ini
                 MC
     Anak-anak! Kalian mau kemana?! ANAK-ANAAKK!!
 
-[[Harapanku scene gatal-gatal ini dialog dari aktor anak-anak selain KUCAI dan TRAPANI(?) bakal inisiatif mereka]]
-
-[[ending anak SD Muhammadiyah gatal-gatal karena kalung, mereka berlarian keluar dari stage ke bench pemirsa. Maybe jika memungkinkan secara struktur stagenya, anak SD Muhammadiyah keluar dari pintu utama. Kucai yang terburu buru pun meninggalkan barang yang ia bawa sebelumnya]]
+!LASKAR PELANGI berlarian ke arah penonton sambil kegatalan.
 
                 MC
  anak anak kalian mau kemana?! anak anaaakk!!
@@ -1668,7 +1695,7 @@ shuss kamu diem, ini sesuatu berharga dan gaboleh hilang ini
 
                 MC
 barang apa ini?? punya siapa ini?? kenapa ada disini??
-[[MC perlahan lahan membuka amplop tersebut]]
+!MC perlahan lahan membuka amplop tersebut
 
                 MC
 nominasi .....
@@ -1805,7 +1832,7 @@ nominasi .....
                 MAHAR 
     Pelatih? Hahaha. Selama ada Mahar disini, semua akan selesai! 
 
-    !ekspresi FLO berubah menjadi excited. FLO mulai tertarik untuk berbicara dengan MAHAR
+    !ekspresi FLO berubah menjadi antusias FLO mulai tertarik untuk berbicara dengan MAHAR
 
                 FLO 
     Maksudnya? Penampilan tadi kau yang merancangnya, Mahar? 
@@ -1937,7 +1964,7 @@ nominasi .....
 !IKAL terus-terusan menyanyikan lagu cinta sepanjang dibonceng SYAHDAN.
 
                 IKAL
-    Rindu ini kubawa dari pesisir Tanjung Pinang, kurengkuh di antara hujan pertama bulan September, dan angin selatan membawaku kemari kembali, A Ling..
+    Rindu ini kubawa dari pesisir Tanjung Pinang, kurengkuh di antara hujan pertama bulan September, dan angin selatan membawaku kemari kembali, A Ling..!
 
 !IKAL dengan dramatis melenggang ke dalam toko, hanya untuk disambut A MIAW, mengulurkan kotak kapur ke IKAL. 
                 A MIAW
@@ -1965,7 +1992,10 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 !A MIAW menyerahkan buku harian A LING yang ditali dengan pita bersama novel ‘Seandainya Mereka Bisa Bicara’.
 
-!IKAL menerimanya dengan mata menahan tangis. IKAL berjalan ke tengah panggung dengan buku A LING, IKAL bersimpuh
+!IKAL menerimanya dengan mata menahan tangis. IKAL berjalan ke tengah panggung dengan buku A LING, IKAL bersimpuh, lalu membacakan judul novel tersebut sembari sedih.
+
+                IKAL
+    Seandainya mereka bisa bicara...
 
 >LIGHTS DIM [[??]] [[PROPERTI OUT]]
 >FOLLOW LIGHTS IKAL
@@ -1987,14 +2017,42 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 >CUE MUSIK SEDIH 
 
+!IKAL yang terbaring di tempat tidur
+
                 IKAL
-                [[start puisi nanti]]
+    A Ling...A Ling...! Kulalui sudah belasan malam setelah kepergianmu. 
+    Meninggalkan aku...merana! Sendirian!
+    A Ling... 
+    A ling.. masih ku teringat pijar matamu saat sembahyang kala itu 
+    Pantulan sang purnama tercetak jelas di matamu
+    Dan tak pernah kulihat rembulan begitu cemburu dengan sinarnya yang kau curi
+    Namun kini, sang purnama kehilangan tempat bercermin 
+    Dimanakah ia bisa bercermin selain di mata indahmu itu, A Ling?
+    
+    Ah...A Ling! 
+    Dengarkan rinduku yang menggemuruh ini, A Ling!
+    Di padang ilalang Edensor atau tengahnya bising Jakarta 
+    Puaskah kau tertawa di sana? Membayangkan merananya aku kau tinggalkan?
+    Puaskah kau?
+
+! IKAL memandangi buku "Seandainya Mereka Bisa Bicara"
+
+                IKAL
+    'Seandainya Kita Bisa Bicara'...Tapi kau tak bicara padaku saat ini, A Ling...
+    Kini kau biarkan aku bicara sendirian. 
+    Siapa yang akan mendengarkanku, A Ling? Tumpukan pasir? Ilalang yang tumbuh tinggi? atau dedaunan yang jatuh?
+    AH. yang akan terpupuk hanyalah rindu! 
+    Yang semakin tumbuh hanyalah cinta padamu. 
+    dan yang jatuh hanyalah aku pada hatimu.
+    Namun, kini reduplah pula aku tanpamu...
+
+!IKAL dengan lemas berjalan dan menjatuhkan dirinya ke kasur.
 
 ! MAHAR, SYAHDAN dan A KIONG tiba-tiba muncul, menerobos pintu kamar IKAL.
 
 !MAHAR mengenakan jas panjang dan menenteng tas koper.
                 MAHAR
-    Ikal, tenanglah kawan! Aku datang tuk bantu kau.
+    Ikaaall, tenanglah kawan! Aku datang tuk bantu kau. Mahar yang hebat datang untuk selamatkan hari!
 
 !MAHAR maju paling depan, sok-sok memeriksa kepala hingga ujung IKAL layaknya seorang dokter.
 
@@ -2023,7 +2081,8 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 !MAHAR mengakhiri sesi ritualnya dengan dramatis, mengibaskan rambut MAHAR yang ikut basah seperti penyanyi dangdut di akhir penampilan.
 
                 MAHAR
-    Tiga anak jin tersinggung karena kau kencing sembarangan di altar kerajaan mereka di belakang sekolah. Merekalah yang membuatmu demam begini
+                (dengan nada serius)
+    Ahem, Tiga anak jin tersinggung karena kau kencing sembarangan di altar kerajaan mereka di belakang sekolah. Merekalah yang membuatmu demam begini
 
 !MAHAR memasukkan kembali pisau dan kunir ke dalam koper dan menyerahkan kopernya ke KUCAI seperti petugas Paskibra.
 
@@ -2031,6 +2090,18 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
     Tapi tenang saja kawan, besok juga kau sudah bisa masuk sekolah. Mereka sudah kuusir dengan kekeluargaan, tenang saja.
 
 !MAHAR, A KIONG, dan SYAHDAN keluar panggung dengan melenggang, sementara IKAL dibuat bengong.
+
+!Terdengar sayup-sayup suara A LING memanggil IKAL 
+
+                A LING 
+    Ikal.. Ikal.. 
+
+!IKAL yang mendengar itu mencari-cari sumber dari suara dengan gelisah. 
+
+                IKAL 
+    A Ling! A Ling! Kau dimana A Ling? 
+
+!IKAL mencari-cari A Ling dan keluar dari stage.
 
 >LIGHTS OFF
 ===
@@ -2102,7 +2173,7 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
                 MAHAR
     AH! Kau orang terpintar yang kutahu setelah Almarhum Albert Einstein, Boy! Aku yakin kau pasti bersinar!
 
- !IKAL menggeret lengan LINTANG yang terlihat gamang. BU MUSLIMAH, IKAL, dan MAHAR [[???siapa aja yo]] berusaha meyakinkan LINTANG untuk ikut. 
+ !IKAL menggeret lengan LINTANG yang terlihat gamang. BU MUSLIMAH, IKAL, dan MAHAR berusaha meyakinkan LINTANG untuk ikut. 
                
                 (lagu _JATUH, BANGKIT KEMBALI_ diputar)
 
@@ -2234,6 +2305,9 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
     SERAAAAATUSSSSS!!
 
 !PANITIA CERDAS CERMAT 2 bersorak lantang seperti mengumumkan hadiah tirai di acara televisi.
+
+
+[[Perpanjang scene CERDAS CERMAT agar posisinya lebih sengit antara SD PN dan Muhammadiyah (Naja)]]
 
 !LASKAR PELANGI bersorak keras setelah LINTANG menyamakan poin.
 
@@ -2503,7 +2577,6 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 >LIGHTS OUT
 >SET PINDAH KE SEKOLAH
-[[ini mau disetel musik yang sedih ga ya]]
 
 !ANAK-ANAK sedang berhitung dengan lidi. IKAL terlihat bosan dan berulangkali melihat bangku di sebelahnya yang kosong. 
 
