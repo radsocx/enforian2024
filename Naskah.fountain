@@ -42,7 +42,7 @@ Source: Based on Laskar Pelangi
 !PAK HARFAN dan BU MUSLIMAH terlihat cemas, berulang kali melihat jam tangan di tangan. Gerak-geriknya berulang kali menengok ke arah luar. Entah mencari-cari atau menunggu seseorang entah siapa.
 
 >SFX/MUSIK
-[[tambahin sfx/musik buat mengisi keheningan]]
+
 
 !Sementara di salah satu bangku, IKAL sedang duduk bersama AYAH IKAL. IKAL terlihat bingung. IKAL melihat kesana dan kemari memperhatikan temannya satu persatu. Dan berakhir melirik ke teman sebelahnya, LINTANG.
 
@@ -103,7 +103,7 @@ Source: Based on Laskar Pelangi
 
 !PAK HARFAN berjalan ke depan para siswa dan orang tua.
 
-    [[general light berubah dari redup jadi terang]]
+>GENERAL LIGHT SHIFT DARI REDUP KE TERANG
 
                 PAK HARFAN
     Assalamualaikualaikum Warahmatullah Wabarakatuh
@@ -124,7 +124,7 @@ Source: Based on Laskar Pelangi
 !HARUN berlari datang dari arah penonton.
 
                 IKAL
-            (Sembari dimainkan _SAHABAT ALAM_)
+            (Sembari dimainkan _SAHABAT ALAM_ )
     Harun! Itu dia, ada Harun!
 
 !HARUN melambaikan tangannya dan berlari ke arah panggung. 
@@ -132,6 +132,21 @@ Source: Based on Laskar Pelangi
     Kawan-kawan!! Tunggu akuuu!!!
 
 !Semua ANAK-ANAK termasuk orang tua, BU MUSLIMAH serta PAK HARFAN menari bersama dengan gembira.
+
+                    (Dialog di tengah _SAHABAT ALAM_)
+
+                SYAHDAN 
+    LIHATLAH KAWAN!! ADA PELANGI!!
+
+!SYAHDAN menunjuk ke pelangi
+
+                ANAK-ANAK
+    Indah sekali!!
+
+                BU MUSLIMAH
+    Pelangi terlihat indah karena ragam warnanya, seperti kalian yang indah bersama...LASKAR PELANGI!
+
+
 
 ===
 
@@ -371,7 +386,7 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 >LIGHTS OUT
 >SOUND OUT
 
-![[VISUALISASI LINTANG BELAJAR DENGAN TOKOH MATEMATIKAWAN]]                
+!VISUALISASI LINTANG BELAJAR DENGAN TOKOH MATEMATIKAWAN          
 
 !MATEMATIKAWAN berdansa ria di belakang Lintang yang sedang belajar, sesumbar tentang LINTANG dan temuan mereka.
 
@@ -496,7 +511,6 @@ WULAN menunjuk AWANG yang memegang layangan robek.
 !Di sepanjang jalan menuju toko, banyak orang berlalu lalang. Seperti para penjual, para nelayan yang sedang membawa jala, dan masih banyak lagi. [tentatif]
 
 !SYAHDAN bersenandung melantunkan Lagu _KATA PUJANGGA_. Beberapa penduduk yang berlalu-lalang ikut bersenandung dan sesekali berjoget bersama.
-
                 SYAHDAN
         (menyanyi)
     ~"Hidup tanpa cinta bagai taman tak berbunga"
@@ -505,10 +519,6 @@ WULAN menunjuk AWANG yang memegang layangan robek.
     ~Hai, begitulah kata para pujangga
     ~Aduhai, begitulah kata para pujangga
     ~(Taman suram tanpa bunga)
-    ~Ada yang dicinta, giat bekerja
-    ~Entah apa, entah siapa
-    ~Karena cinta, jiwa gairah
-    ~Tanpa cinta, hidup pun hampa
 
 
 !SYAHDAN dan IKAL sampai di Toko Sinar Harapan itu.
@@ -676,7 +686,6 @@ WULAN menunjuk AWANG yang memegang layangan robek.
         Sabarlah sedikit. Ini aku buka. 
 
 !KUCAI membuka surat itu perlahan. IKAL mengintip surat tersebut 
-[[isinya awardee, tolong gmn yah bingung]]
 
                 KUCAI
     no..mi..ini bacanya apa ikal?? terlalu banyak huruf aku pusingg
@@ -693,8 +702,8 @@ n o no m i mi...
 
                 KUCAI
 lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi... 
-[[pake nada ooh nya aaliyah]]
 
+!PENGUMUMAN NOMINASI
 
 >TRANSITION [TBA] [[biar gak lupa]]
 
@@ -884,16 +893,26 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !Saat di depan kelas, MAHAR diam memandangi murid-murid cukup lama hingga akhirnya memalingkan wajah ke arah BU MUSLIMAH sambil tersenyum kecil dan memberi hormat.
 
                 MAHAR
-            (lagu _[TBA]_ diputar)
-    Aku akan membawakan sebuah lagu tentang [TBA]. 
-    
+            (lagu _CAN'T HELP FALLING IN LOVE_mulai diputar)
+    Lagu yang akan kubawakan ini, menceritakan soal bodohnya seseorang saat mereka tengah dimabuk asmara, terjerat oleh cintanya sendiri pada sang Kasih
 
+!MAHAR dengan syahdu mulai memainkan gitarnya. BU MUSLIMAH yang daritadi khusyuk mendengarkan, mulai bersyair.
+
+            BU MUSLIMAH
+    Jalan ke ladang berliku-liku,
+    Janganlah kau lewat hutan cemara
+    Cepatlah kau nyanyikan lagumu
+    Agar kutahu bagaimana kau merana
+
+!MAHAR tersenyum ke BU MUSLIMAH dan mengangguk. 
+            
+            MAHAR
+    Terimakasih, Ibunda Guru 
+
+!MAHAR mulai menyanyikan lagu _CANT HELP FALLING IN LOVE_
 !Perhatian satu kelas tertuju pada MAHAR.
 
-!MAHAR mengambil napas dalam-dalam.
-!ANAK-ANAK beranjak dan dance, kecuali HARUN yang masih tertidur pulas.
-
-
+>FADES OUT 
 >TRANSITION [TBA]
 ===
 
@@ -980,7 +999,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
                 IKAL
     Ini, benar darimu, kan?
 
-!A LING tersenyum dan mengangguk, tangan IKAL gemetar. A LING mengambil surat yang IKAL keluarkan dan berjalan mengajak IKAL mengelilingi Pasar Malam. [[hayolo transisi gimana]]
+!A LING tersenyum dan mengangguk, tangan IKAL gemetar. A LING mengambil surat yang IKAL keluarkan dan berjalan mengajak IKAL mengelilingi Pasar Malam.
 
                 A LING
     Ikal, lihat pemain musik itu. Mereka terlihat sangat lihai. Apa kamu suka bermain musik?
@@ -1073,7 +1092,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !PAK HARFAN Menerima kapur yang dibawa BU MUSLIMAH.
 
                 PAK HARFAN
-    Terima kasih. Jadi, alasan saya mengumpulkan kalian semua di sini adalah untuk ini.
+    Terima kasih, Mus. Anak-anak yang Bapak cintai, alasan saya mengumpulkan kalian semua di sini adalah untuk ini.
 
 !PAK HARFAN Menuliskan kata “Karnaval 17 Agustus” dengan besar, lalu mengucapkan dengan lantang.
 
@@ -1120,7 +1139,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
     Rek, kau merasa ada yang aneh kah dengan dia?
 
                 BOREK
-    Hooh, terlalu aneh melihatnya tiba-tiba jadi pendiam.
+    Hooh, terlalu aneh melihatnya tiba-tiba jadi pendiam, merinding aku!
 
                 A KIONG
     Siapa yang kalian maksud itu?
@@ -1128,17 +1147,18 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !SAHARA Kebetulan mendengar A KIONG bertanya dari bangkunya.
 
                 SAHARA
-    Kau ini tak paham yang dimaksud, hah?
+                (dengan nada ketus)
+    Kau ini tak paham yang dimaksud, hah? Haish...tapi wajarlah saja Mahar jadi diam seribu bahasa macam pasien kena bius kalau disuruh ikut karnaval begitu...
 
 !BU MUSLIMAH kembali dengan wajah yang gelisah
 
                 BU MUSLIMAH
-    Anak-anak, karena Ibu ada keperluan mendadak, dan waktu sudah mau dzuhur, maka kita akhiri saja kelas ini ya?
+    Anak-anak, karena Ibu ada keperluan mendadak, dan waktu sudah mau dzuhur, maka kita akhiri saja kelas ini ya? Kalian gunakanlah waktu untuk pikirkan karnaval, Ibu percaya dengan kalian.
 
-!MAHAR masih tetap melamun, HARUN seketika tidur, dan ANAK-ANAK lainnya langsung kecewa. [[kepanjangan nggak yo? Nek iya tak ubah lagi]]
+!MAHAR masih tetap melamun, HARUN seketika tidur, dan ANAK-ANAK lainnya langsung kecewa. 
 
                 ANAK-ANAK
-            (Kecewa berad)
+            (Kecewa berat)
     Yahhh ....
 
                 BU MUSLIMAH
@@ -1157,16 +1177,45 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !ANAK-ANAK kaget dengan tingkah MAHAR.
 
-!BOREK dan LINTANG menuju halaman sekolah.
+!BOREK, LINTANG, SAHARA, dan IKAL menuju halaman sekolah.
 
                 BOREK
                 (meledek)
     Lihat si aneh itu, tiba-tiba berteriak sana-sini tak jelas sedikitpun.
 
+!LINTANG mengangkat bahu, sama-sama keheranan. 
                 LINTANG
     Bagaimanapun, dia sedang memikirkan konsep karnaval nanti rek. Mungkin ...
 
-!BOREK menunjukkan otot lengannya sambil meringis.
+               SYAHDAN
+    Ey Ikal, Lintang yakinkah kita mau ikut karnaval tahun ini? Kalau hanya mau tampil pakai seragam buruh bapakku saja tak maulah aku! 
+
+!SAHARA yang ikut mendengar mengangguk.
+
+                SAHARA
+             2   (nada pesimis)
+    Tiap tahun kita hanya jadi penggembira sementara piala selalu saja dibawa pulang PN Timah...aku tak yakin, bahkan dengan kemampuan Mahar akan mustahil mengalahkan mereka
+
+!A KIONG ceplas-ceplos menanggapi SAHARA
+
+                A KIONG
+    Ah Sahara! Kau ini selaluuu saja pesimis dan pahit! Apa bedanya kau dan nasi yang terlewat gosong?
+
+!A KIONG, LINTANG, SYAHDAN, BOREK, dan IKAL tertawa. Namun, SAHARA tak senang, mukanya mengerut.
+
+                SAHARA
+    Sekali lagi kau buka mulutmu yang tak bisa diatur itu...awas saja!
+
+!SAHARA mengepalkan tangannya, mengancam A KIONG dengan wajah yang marah. A KIONG berlindung di balik IKAL.
+
+                A KION
+    AMPUN!!!
+
+                IKAL
+    Aku...ingin percaya pada Mahar, tapi kalau kita datang lagi tahun ini hanya untuk menelan kekalahan lagi...
+
+
+!BOREK terkekeh, menunjukkan otot lengannya sambil meringis.
 
                 BOREK
     Kalau mau karnaval kita nanti kelihatan bagus, mending tunjukkan saja otot-otot pejuang ini!
@@ -1174,7 +1223,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !LINTANG memandang BOREK dengan heran, lalu menyikut BOREK dengan pelan.
 
                 LINTANG
-    Ada-ada saja lah kau ni, rek.
+    Ada-ada saja lah kau ni, rek. 
 
 !BOREK hanya terkekeh sambil melihat otot tangan yang dipamerkan, lalu pergi sambil bersenandung.
 
@@ -1186,17 +1235,33 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
                 (Kaget)
     EH?! Mau ngapain kau, Rek?!
 
-!Menunjuk ke arah pintu utama [[Tergantung stage]]
+!Menunjuk ke arah pintu utama
 
                 BOREK
     Ayo, tang. Kutunjukkan sesuatu yang bagus di sana.
 
 !LINTANG ditarik keluar oleh BOREK menuju pintu utama, lalu MAHAR pun keluar dari stage secara bersamaan.
 
+                SYAHDAN
+    Hey, tunggu!! Kok Lintang saja yang diajak? Aku juga mau lihat! A Kiong, Ikal, ayolah!
+
+!SYAHDAN mengikuti sembari menyeret A KIONG DAN IKAL. 
+
+                SAHARA
+                (bersungut)
+    Dasar bocah-bocah kekanakan....sama sekali tak dewasa, huh!
+
+!SAHARA keluar panggung dengan menyilangkan tangan dan bersungut.
+
+>SHIFT WAKTU KE SORE HARI
+
 !MAHAR pun datang ke halaman sekolah bersama dengan semua ANAK-ANAK di sore harinya.
 
                 A KIONG
     Har, kamu mau kasih tahu kami apa sampai di bawa ke halaman sekolah ini?
+
+                SYAHDAN
+    Ah malas aku Har kalau kau suruh kami pakai baju petani macam tahun lalu...paling-paling kita akan kalah lagi tahun ini...
 
 !MAHAR merentangkan tangan.
 
@@ -1209,15 +1274,10 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
                 MAHAR
     Tahun yang dinanti-nanti ... TAHUN BANGKITNYA SD KITA KE SELURUH PENJURU DUNIA!!!
 
-!Semakin penasaran, semua murid memandang MAHAR dengan tegang.
-
-                ANAK-ANAK
-    Apa itu, Har?
-
-!MAHAR tersenyum puas.
+                        (LAGU MAHAR_DAN_ALAM  mulai diputar)
 
                 MAHAR
-    Hehehe, kalian akan tampil dalam koreografi massal [[bikin orisinil atau ngikut di buku ini?]]
+    Hehehe, kalian akan tampil dalam koreografi massal
 
 !ANAK-ANAK tercengang, sontak bertepuk tangan dan bersorak riah dengan gagasan itu.
 
@@ -1247,6 +1307,8 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
     Iyalah! Langsung saja, kita mulai pemanasan dulu, oke?
 
 !ANAK-ANAK melakukan pemanasan sesuai arahan MAHAR, kecuali HARUN dan SAHARA
+
+!MAHAR mulai menyanyikan lirik _MAHAR DAN ALAM_ [[revisit]]
 
 !Setelah selesai pemanasan, MAHAR mulai mengajari sambil memperagakan.
 
@@ -1285,48 +1347,13 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !Setelah MAHAR memarahi KUCAI, ANAK-ANAK mulai latihan kembali. Setelah latihan beberapa kali, MAHAR berteriak.
 
-                MAHAR
-    Kawan-kawan! Kita istirahat dulu yuk!
-
-!ANAK-ANAK pun langsung duduk dan meluruskan kaki.
-
-!MAHAR yang masih berdiri melihat ANAK-ANAK yang duduk kelelahan setelah latihan
-
-                MAHAR
-    Kerja bagus kalian.
-
-!SEMUA tersenyum walau kelelahan setelah dipuji.
-    
-                MAHAR
-    Dua minggu lagi adalah waktu penentuan kita. Kita harus melakukan yang terbaik untuk karnaval nanti. Seperti para pelaut yang terdampar di sekolah perawat kawanku! Kerahkan semua hasil jerih payah kalian dan buktikan bahwa kita bisa kawan!
-
-!ANAK-ANAK tampak kagum dengan kalimat MAHAR.
-
-                IKAL
-    Wah Mahar, tak kusangka kau bisa menemukan kata-kata itu.
-
-!A KIONG berbalik menghadap BOREK.
-
-                A KIONG
-    Rek, aku balu tahu kalau di Belitong ada sekolah pelawat di pinggil laut
-
-!SAHARA tampak kesal dengan celetukan lugu A KIONG.
-
-                SAHARA
-    Kau tak paham kah kalau itu perumpamaan?! Banyak-banyaklah membaca buku sastra!
-
-!A KIONG berdiri lalu berbalik kebingungan menghadap penonton.
-
-                A KIONG
-    Buku sastra yang mana ya pemirsa?
-
-!SAHARA mengepalkan tangannya sambil tersenyum geram.
+!MAHAR memandu LASKAR PELANGI untuk melakukan koreografi karnaval.
 
 >LIGHTS OUT 
 >BACKGROUND SHIFT TO LAPANGAN SD PN
 >BLACKOUT
 ===
-.EXT. LAPANGAN SD PN - "" #6.5#
+.EXT. LAPANGAN SD PN - "MAYORET MEDIOKER" #6.5#
 
 ***PROPERTI : ***
 
@@ -1337,60 +1364,178 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 !DRUMMER 2 tiba-tiba sebal dengan DRUMMER 1 di sela-sela latihan.
 
                 DRUMMER 2
-        Hey! Kamu kenapa sih mukul drum keras sekali?!
-
-                DRUMMER 1
-                (dengan nada menyepelekan)
-        Hah?! Aku tak dengar!
+    Hey! Kamu kenapa sih mukul drum keras sekali?!
+                (dengan nada memyepelekan)
+    Hah?! Aku tak dengar!
 
                 DRUMMER 2
-        Makanya kecilkan pukulanmu itu!
+    Makanya kecilkan pukulanmu itu!
 
                 DRUMMER 1
-        Mana sudi lah! Aku nih drummer terbaik di sini! Mana mungkin suara drumku kalah sama yang lain!
+    Mana sudi lah! Aku nih drummer terbaik di sini! Mana mungkin suara drumku kalah sama yang lain!
 
 !DRUMMER 1 makin mengeraskan tabuhan drumnya.
 
-!Karena keributan kecil, FLO mencoba menghentikan latihan yang berlangsung. mmuach
+!Karena keributan kecil, FLO mencoba menghentikan latihan yang berlangsung.
 
                 FLO
                 (dengan nada kesal)
-        Hey, kalian. Hentikan sebentar!
+    Hey, kalian. Hentikan sebentar!
 
 !Peringatan FLO diabaikan oleh DRUMMER 1 dan DRUMMER 2, sedangkan yang lainnya patuh.
 
                 DRUMMER 2
-        Hanya karena kamu drummer terbaik bukan berarti yang lainnya jelek, kan?!
+    Hanya karena kamu drummer terbaik bukan berarti yang lainnya jelek, kan?!
 
 !DRUMMER 1 makin mengencangkan pukulannya. ANAK SD PN lainnya hanya melihat DRUMMER 1 dan DRUMMER 2 ribut sendiri.
 
                 DRUMMER 1
                 (Dengan nada mengejek)
-       Heh! Kalau kamu emang jago, buktikan dong! Mukul drum aja tak ada bunyinya sama sekali.
+    Heh! Kalau kamu emang jago, buktikan dong! Mukul drum aja tak ada bunyinya sama sekali.
 
 !FLO berteriak memecah keributan.
 
                 FLO
-        HEY! KALIAN INI BODOH ATAU GIMANA, HAH?! SUDAH DISURUH BERHENTI MASIH SAJA KELAHI!
+    HEY! KALIAN INI BODOH ATAU GIMANA, HAH?! SUDAH DISURUH BERHENTI MASIH AJA KELAHI!
 
 !DRUMMER 1 dan DRUMMER 2 langsung kaget terdiam.
 
-!FLO menunjuk DRUMMER 1 dengan tatapan kesal.
+!FLO menunjuk-nunjuk-nunjuk DRUMMER 1 dengan tatapan kesal.
 
                 FLO
-        KAMU YA, MENGANGGAP DIRIMU DRUMMER TERBAIK TAPI MUKUL DRUM AJA MASIH SUKA LEPAS KENDALI! MANA KAMU JUGA MASIH SERING KETINGGALAN NADA SAMA YANG LAINNYA LAGI!
+    KAMU YA, MENGANGGAP DIRIMU DRUMMER TERBAIK TAPI MUKUL DRUM AJA MASIH SUKA LEPAS KENDALI! MANA KAMU JUGA MASIH SERING KETINGGALAN NADA SAMA YANG LAINNYA LAGI!
 
 !Protes dari FLO tiba-tiba disanggah oleh FLAGGER 1.
 
+                FLAGGER 1
+        Hey, Flo! Kamu ini ngomong seperti kamu bisa memutar bendera itu dengan benar saja! Sudah seminggu sampai pertunjukkan mau dimulai dan kamu nih masih saja tak becus melempar!
+
+                 PIANIKA 1 
+            (dengan nada sarkas)
+    Hey, kamu memangnya mau kena lemparannya? Lemparannya kan udah jago dari awal, jadi hati-hati aja kamu kalau bicara tentang MAYORET JAGO kita gitu loh.
+
+!FLO terpancing dengan ucapan PIANIKA 1
+
+                FLO
+            (Tersinggung)
+    Maksud kamu apa ya?!
+    
+                PIANIKA 1
+     Ya, menurut kamu sendiri gimana, JA-GO-AN?
+
+!FLO menunjuk ke dirinya sendiri dengan raut muka bingung dan tersinggung
+
+            FLO
+    Aku?
+
+!FLAGGER 1 dan anggota MARCHING BAND tertawa, FLO tampak bingung.
+
             FLAGGER 1
-         Hey, Flo! Kamu ini ngomong seperti kamu bisa memutar tongkat itu dengan benar saja! Sudah seminggu sampai pertunjukkan dan masih saja tak becus melempar!
+    Kalau memang ga bisa ya BELAJAR DULU LAH! Mana ada orang yang mau jadi mayoret tapi dianya ga bisa apa-apa!!
 
-             PIANIKA 1 
+            FLO
+            (Protes)
+    Tapi tunggu dulu teman-teman! Aku mau jadi mayoret pun juga--
 
+!FLAGGER 1 langsung memotong ucapan FLO
 
-!        
+            FLAGGER 1
+    Ada alasannya kan? Halah BASI!! Dulu juga udah banyak tuh yang bilang pasti ada alasan ini lah, itu lah. Nyatanya juga cuma ngeles doang!
+
+!FLO menatap tajam FLAGGER 1 tanpa bisa berkata apapun.
+
+            FLAGGER 1
+    APA?! MAU NGAJAK KELAHI, HAH?!
+
+            FLO
+    AYO SINI KALAU MAU RIBUT!
+
+!FLO dan FLAGGER 1 langsung membuang peralatan di tangan masing-masing dan berjalan mendekat sambil menyiapkan bogem mentah dengan amarah yang meluap. Namun, PIANIKA 2 tiba-tiba menengahi mereka.
+
+            PIANIKA 2
+    WOI, SUDAHLAH! KALIAN NI SUKANYA CARI RIBUT SAJA!
+
+!FLO dan FLAGGER 1 dihentikan langkahnya oleh PIANIKA 2 dengan cara menahan bahu FLO dan FLAGGER 1.
+
+            FLO
+    Apasih?! Lepasin cepet!
+    
+[[selesaikan PERSIAPAN KARNAVAL (Madah dan Naja)]]
         
+            PIANIKA 2
+    Cobalah buat selesaikan masalah ini, bukannya bikin tambah parah karena ulah kalian!
 
+!PIANIKA 2 kemudian mendorong pelan bahu FLO dan FLAGGER 1. Kini, PIANIKA 2 menatap FLAGGER 1.
+
+            PIANIKA 2
+    Kamu seharusnya tidak perlu memancing emosi orang lain dengan sindiranmu barusan. Kalau bisa, seharusnya kamu beri solusi biar Flo bisa mahir.
+
+!PIANIKA 2 kemudian berbalik ke FLO.
+
+            PIANIKA 2
+    Dan kamu, Flo. Seharusnya kamu bisa bersikap lebih tenang lagi. Kalau kamu masih sering terpancing, gimana jadinya pas hari pertunjukkan kita dimulai nanti?
+
+!PIANIKA 2 terengah-engah karena banyak berbicara setelah lelah latihan.
+
+            PIANIKA 2
+    Sudahlah, aku mau pulang aja. Kalau dilanjut cuma dapet capeknya doang. Yok!
+
+!Melihat PIANIKA 2 pergi, FLO mencoba menghentikannya.
+
+            FLO
+    Eh, tunggu! Jangan pulang dulu. Gimana latihannya kalau kamu pergi?
+
+!DRUMMER 1 dan DRUMMER 2 pun menatap satu sama lain, lalu menaruh alatnya di lantai dan kemudian pergi dari panggung tanpa sepatah kata apapun.
+
+!FLAGGER 2 yang masih memegang benderanya langsung dibanting FLAGGER 2 sambil berceloteh.
+
+            FLAGGER 2
+    Ternyata kayak gini kualitas mayoret JAGOAN kita, huh.
+
+!FLAGGER 2 pun pergi dari panggung setelah berceloteh.
+
+            FLO
+    Tunggu ...
+
+!FLAGGER 1 pun beranjak pergi keluar panggung sambil berdecak kesal.
+
+!FLO hanya bisa memandangi ANAK-ANAK SD PN yang mulai pergi satu per satu, hingga tersisa FLO sendiri di lapangan.
+
+            FLO
+    Alasanku menjadi mayoret ini ... tidak lain agar aku diakui oleh ayah. Jika aku berhasil tampil gemilang di sana sebagai mayoret, aku tidak perlu kembali ke piano membosankan itu.
+
+!FLO mengepalkan tangannya.
+
+            FLO
+    Aku mau menjadi diriku sendiri, yang tidak disetir seperti keinginan ayah menjadi gadis yang membosankan. Untuk itu, aku harus latihan lebih keras lagi agar aku berhasil!
+
+!Setelah FLO bermonolog untuk memacu semangatnya, dia kemudian celingak-celinguk.
+            FLO
+    Oh iya, mana itu tongkat? Ah, itu dia.
+
+!FLO berlari kecil menghampiri tongkatnya yang tergeletak di tanah dan mengambilnya.
+
+!FLO kemudian menarik napas dalam-dalam, dan melihat ke atas.
+
+            FLO
+    Semoga saja kali ini berhasil.
+
+!FLO kemudian melempar tongkatnya, mencoba untuk melakukan aksi mayoret pada umumnya. Namun, FLO gagal menangkapnya lagi.
+
+            FLO
+    Gagal lagi ...
+
+!FLO kemudian meraih tongkatnya yang jatuh di tanah lagi.
+
+            FLO
+    Aku harus latihan lebih keras lagi. Pokoknya aku harus bisa melempar tongkat ke atas dengan benar!
+
+!FLO kemudian pergi meninggalkan panggung sambil bergumam terus menerus dan membawa tongkatnya.
+
+            FLO
+    Aku pasti bisa! Aku pasti bisa! Aku pasti bisa!
+
+>LIGHTS OUT
 ===
 .INT/EXT. [TBA] - "HARI KARNAVAL" #7#
 
@@ -1414,7 +1559,8 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !Marching Band dari SD PN tampil lebih baik daripada tahun lalu. Kemudian, mereka melantunkan lagu _JAZZ SUITE NO. 1: III. FOXTROT_ dengan interpretasi yang pas.
 
-!FLO menjadi mayoret di Marching Band tersebut. [[waktu lagi marching band, FLO gagal menangkap tongkat ,mayoret yang dia lempar. hal itu menjadi pemantik keributan bagi anak sd pn]]
+!FLO menjadi mayoret di Marching Band tersebut. (waktu lagi marching band, FLO gagal menangkap tongkat ,mayoret yang dia lempar. hal itu menjadi pemantik keributan bagi anak sd pn)
+
 
 !Semua murid SD Muhammadiyah yang akan tampil kecuali SAHARA dan HARUN yang menonton dari belakang barisan penonton karnaval.
 
@@ -1452,8 +1598,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
                 LINTANG
     Apa yang kau rogoh itu?
 
-!MAHAR mengeluarkan beberapa kalung yang berduri tapi kelihatan keren. [[Monggo para sutart wkkwkw, tergantung imajinasi kalian. STC]]
-
+!MAHAR mengeluarkan beberapa kalung yang berduri tapi kelihatan keren. 
                 MAHAR
     Ini, pakailah kalung keramat ini, kawan.
 
@@ -1467,7 +1612,7 @@ lama kali bah kamu membacanya, sini biar aku aja. N O NO, M I MI OOOOHH Nominasi
 
 !Setelah MAHAR selesai mengalungkan kalung buatan tangannya, rombongan peserta dari SD Muhammadiyah mulai bergerak menuju lokasi pertunjukkan.
 
-[[Di saat yang lain sibuk memakai kalung, KUCAI juga sibuk menyembunyikan ... yang dibawanya]]
+!Di saat yang lain sibuk memakai kalung, KUCAI juga sibuk menyembunyikan ... yang dibawanya [[REVISIT ITEM]]
                IKAL
 eh kucai, apa yang kau sembunyikan itu?
 
@@ -1541,9 +1686,7 @@ shuss kamu diem, ini sesuatu berharga dan gaboleh hilang ini
                 MC
     Anak-anak! Kalian mau kemana?! ANAK-ANAAKK!!
 
-[[Harapanku scene gatal-gatal ini dialog dari aktor anak-anak selain KUCAI dan TRAPANI(?) bakal inisiatif mereka]]
-
-[[ending anak SD Muhammadiyah gatal-gatal karena kalung, mereka berlarian keluar dari stage ke bench pemirsa. Maybe jika memungkinkan secara struktur stagenya, anak SD Muhammadiyah keluar dari pintu utama. Kucai yang terburu buru pun meninggalkan barang yang ia bawa sebelumnya]]
+!LASKAR PELANGI berlarian ke arah penonton sambil kegatalan.
 
                 MC
  anak anak kalian mau kemana?! anak anaaakk!!
@@ -1552,7 +1695,7 @@ shuss kamu diem, ini sesuatu berharga dan gaboleh hilang ini
 
                 MC
 barang apa ini?? punya siapa ini?? kenapa ada disini??
-[[MC perlahan lahan membuka amplop tersebut]]
+!MC perlahan lahan membuka amplop tersebut
 
                 MC
 nominasi .....
@@ -1822,7 +1965,7 @@ nominasi .....
 !IKAL terus-terusan menyanyikan lagu cinta sepanjang dibonceng SYAHDAN.
 
                 IKAL
-    Rindu ini kubawa dari pesisir Tanjung Pinang, kurengkuh di antara hujan pertama bulan September, dan angin selatan membawaku kemari kembali, A Ling..
+    Rindu ini kubawa dari pesisir Tanjung Pinang, kurengkuh di antara hujan pertama bulan September, dan angin selatan membawaku kemari kembali, A Ling..!
 
 !IKAL dengan dramatis melenggang ke dalam toko, hanya untuk disambut A MIAW, mengulurkan kotak kapur ke IKAL. 
                 A MIAW
@@ -1850,7 +1993,10 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 !A MIAW menyerahkan buku harian A LING yang ditali dengan pita bersama novel ‘Seandainya Mereka Bisa Bicara’.
 
-!IKAL menerimanya dengan mata menahan tangis. IKAL berjalan ke tengah panggung dengan buku A LING, IKAL bersimpuh
+!IKAL menerimanya dengan mata menahan tangis. IKAL berjalan ke tengah panggung dengan buku A LING, IKAL bersimpuh, lalu membacakan judul novel tersebut sembari sedih.
+
+                IKAL
+    Seandainya mereka bisa bicara...
 
 >LIGHTS DIM [[??]] [[PROPERTI OUT]]
 >FOLLOW LIGHTS IKAL
@@ -1870,16 +2016,44 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 !SYAHDAN melangkah keluar panggung dengan bersungut-sungut, tak habis pikir.
 
->CUE MUSIK SEDIH [[mau apa hayo]]
+>CUE MUSIK SEDIH 
+
+!IKAL yang terbaring di tempat tidur
 
                 IKAL
-                [[start puisi nanti]]
+    A Ling...A Ling...! Kulalui sudah belasan malam setelah kepergianmu. 
+    Meninggalkan aku...merana! Sendirian!
+    A Ling... 
+    A ling.. masih ku teringat pijar matamu saat sembahyang kala itu 
+    Pantulan sang purnama tercetak jelas di matamu
+    Dan tak pernah kulihat rembulan begitu cemburu dengan sinarnya yang kau curi
+    Namun kini, sang purnama kehilangan tempat bercermin 
+    Dimanakah ia bisa bercermin selain di mata indahmu itu, A Ling?
+    
+    Ah...A Ling! 
+    Dengarkan rinduku yang menggemuruh ini, A Ling!
+    Di padang ilalang Edensor atau tengahnya bising Jakarta 
+    Puaskah kau tertawa di sana? Membayangkan merananya aku kau tinggalkan?
+    Puaskah kau?
+
+! IKAL memandangi buku "Seandainya Mereka Bisa Bicara"
+
+                IKAL
+    'Seandainya Kita Bisa Bicara'...Tapi kau tak bicara padaku saat ini, A Ling...
+    Kini kau biarkan aku bicara sendirian. 
+    Siapa yang akan mendengarkanku, A Ling? Tumpukan pasir? Ilalang yang tumbuh tinggi? atau dedaunan yang jatuh?
+    AH. yang akan terpupuk hanyalah rindu! 
+    Yang semakin tumbuh hanyalah cinta padamu. 
+    dan yang jatuh hanyalah aku pada hatimu.
+    Namun, kini reduplah pula aku tanpamu...
+
+!IKAL dengan lemas berjalan dan menjatuhkan dirinya ke kasur.
 
 ! MAHAR, SYAHDAN dan A KIONG tiba-tiba muncul, menerobos pintu kamar IKAL.
 
 !MAHAR mengenakan jas panjang dan menenteng tas koper.
                 MAHAR
-    Ikal, tenanglah kawan! Aku datang tuk bantu kau.
+    Ikaaall, tenanglah kawan! Aku datang tuk bantu kau. Mahar yang hebat datang untuk selamatkan hari!
 
 !MAHAR maju paling depan, sok-sok memeriksa kepala hingga ujung IKAL layaknya seorang dokter.
 
@@ -1908,7 +2082,8 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 !MAHAR mengakhiri sesi ritualnya dengan dramatis, mengibaskan rambut MAHAR yang ikut basah seperti penyanyi dangdut di akhir penampilan.
 
                 MAHAR
-    Tiga anak jin tersinggung karena kau kencing sembarangan di altar kerajaan mereka di belakang sekolah. Merekalah yang membuatmu demam begini
+                (dengan nada serius)
+    Ahem, Tiga anak jin tersinggung karena kau kencing sembarangan di altar kerajaan mereka di belakang sekolah. Merekalah yang membuatmu demam begini
 
 !MAHAR memasukkan kembali pisau dan kunir ke dalam koper dan menyerahkan kopernya ke KUCAI seperti petugas Paskibra.
 
@@ -1917,9 +2092,21 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 !MAHAR, A KIONG, dan SYAHDAN keluar panggung dengan melenggang, sementara IKAL dibuat bengong.
 
+!Terdengar sayup-sayup suara A LING memanggil IKAL 
+
+                A LING 
+    Ikal.. Ikal.. 
+
+!IKAL yang mendengar itu mencari-cari sumber dari suara dengan gelisah. 
+
+                IKAL 
+    A Ling! A Ling! Kau dimana A Ling? 
+
+!IKAL mencari-cari A Ling dan keluar dari stage.
+
 >LIGHTS OFF
 ===
-.INT. RUANG KELAS - "CERDAS CERMAT" #9#
+.INT. RUANG KELAS - "CERDAS CERMAT" #10#
 
 ***PROPERTI : Tombol di tengah meja, meja, kursi, taplak meja, poster, banner supporter sekolah, bel***
 
@@ -1953,7 +2140,7 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
                 BU MUSLIMAH
                 (tertawa)
-    Salah dan salah! Masih salah, Ananda Syahdan, dan tak tahukah kalian ciki itu akan membuat kalian batuk-batuk? 
+    Salah dan salah! Masih salah, Ananda Syahdan, dan tak tahukah kalian ciki itu akan membuat kalian bat,uk-batuk? 
 
                 BU MUSLIMAH
     Pertama, Ibu sangat bangga dengan kemenangan kalian di festival kalian kemarin. Marvelous! Kalian sudah bisa membuktikan pada dunia bahwa sekolah kita masih bisa berprestasi, bahwa kita masih ada dan dapat melawan! Dan bukankah menang terasa sangat manis?
@@ -1984,10 +2171,10 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 
 !MAHAR tertawa, menepuk keras bahu LINTANG.
 
-               MAHAR
+                MAHAR
     AH! Kau orang terpintar yang kutahu setelah Almarhum Albert Einstein, Boy! Aku yakin kau pasti bersinar!
 
- !IKAL menggeret lengan LINTANG yang terlihat gamang. BU MUSLIMAH, IKAL, dan MAHAR [[???siapa aja yo]] berusaha meyakinkan LINTANG untuk ikut. 
+ !IKAL menggeret lengan LINTANG yang terlihat gamang. BU MUSLIMAH, IKAL, dan MAHAR berusaha meyakinkan LINTANG untuk ikut. 
                
                 (lagu _JATUH, BANGKIT KEMBALI_ diputar)
 
@@ -1997,7 +2184,7 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
 >LIGHTS OFF
 >TRANSISI KE CERDAS CERMAT
 
-!IKAL menggaet lengan SAHARA dan LINTANG ke meja mereka di pertandingan.
+!IKAL menggaet lengan SAHARA dan LINTANG ke meja mereka di pertandingan final.
 
                 IKAL
     Persetan kepercayaan diri, yang penting dengar pertanyaan baik-baik, pencet tombolnya cepat-cepat, dan jawab yang benar, mengerti?
@@ -2012,27 +2199,32 @@ IKAL berdiri kaku, terlalu kaget untuk bereaksi.
     MAJULAH LASKAR PELANGI!! LASKAR PELANGI SATU, LASKAR PELANGI JAYA!!
 
 !SUPPORTER SD SMP PN memotong dukungan dari SMP Muhammadiyah. 
-    VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG.
-VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
-VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
-
+    
+                SUPPORTER SD SMP PN
+    SD PN JAYA! AYAYAYAYA! SD PN MENDUKUNGMU!
+    SD PN JAYA! AYAYAYAYA! SD PN MENDUKUNGMU!
 
 !Tim SMP Muhammadiyah balik mengejek Tim SMP PN, SMP PN membalas, keributan pecah sebentar sebelum panitia menyela.
 
                 PANITIA CERDAS CERMAT 1
-    Semua pihak harap tenang! Pertanyaan pertama akan dibacakan
+    Semua pihak harap tenang! Para panitia akan membacakan ketentuan di babak final ini
 
 !Suasana mendadak hening dan tegang.
 
+                PANITIA CERDAS CERMAT 3
+    Ekhem. Pada babak ini, terdapat 10 soal dengan bobot masing-masing 100 poin. Peserta hanya diperbolehkan menjawab apabila sudah memencet bel dan dipersilahkan panitia. Apabila tim manapun berhasil menjawab soal dengan benar, maka akan mendapat 100 poin. Apabila tidak ada yang menjawab, maka soal akan hangus. Dan apabila tim manapun gagal menjawab pertanyaan, maka skor akan berkurang 100 poin.
+
+!Ketegangan semakin intens ditambah saat peraturan pertandingan selesai dibacakan.
+
                 PANITIA CERDAS CERMAT 1
-    Pertanyaan pertama, ia seorang wanita Prancis, di antara mitos dan realita–
+    Kita masuk ke pertanyaan pertama. Ia seorang wanita Prancis, di antara mitos dan realita–
 
 !Bel berbunyi lantang.
 
 !LINTANG menekan belnya bahkan sebelum PANITIA CERDAS CERMAT menyatakan kata terakhirnya. IKAL hampir melompat dari belakang, begitu juga PANITIA yang membacakan soal.
 
                 PANITIA CERDAS CERMAT 1
-    Regu F!
+    Regu B!
 
                 LINTANG
     Joan D’Arch, Loire Valley, French!
@@ -2045,12 +2237,68 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 !Suara bersorak dan tepuk tangan bergemuruh, paling kencang terdengar dari kubu Laskar Pelangi dengan supporter SMP PN yang terlihat kesal dan mencak-mencak.
 
                 PANITIA CERDAS CERMAT 2
+    Pertanyaan kedua. Kongres Pemuda pertama yang diselanggarakan pada tanggal 30 April -2 Mei 1926 bertujuan-
+
+!Bel berbunyi lantang, tapi kini dari tim SD PN.
+
+                PANITIA CERDAS CERMAT 2
+    Regu A!
+
+                PESERTA SD PN 1
+    Membentuk organisasi satu fusi dari semua orgaisasi pemuda di daerah!
+
+!LINTANG yang sudah berusaha untuk memencet bel ternyata sudah kalah cepat dibanding tim SD PN.
+
+                PANITIA CERDAS CERMAT 2
+    SERATUSSSS!
+
+!Gema sorakan dan tepuk tangan kini beralih sumbernya di kubu SD PN. Kubu Laskar Pelangi hanya melihat kubu SD PN dalam diam.
+
+!IKAL menenangkan LINTANG yang terdiam mengamati papan skor yang sedang ditulis panitia dengan perasaan kecewa.
+
+                IKAL
+    Tidak apa, tang. Kamu kurang cepat aja tadi tu. Habis ini, kita sikat semua pertanyaan nanti!
+
+!Saat panitia selesai menuliskan skor di papan, pertandingan dilanjutkan.
+
+                PANITIA CERDAS CERMAT 1
+    Soalan ke-tiga. Umur Amir lebih tua tiga tahun dari umur Budi, dan Budi usianya lebih muda empat tahun dari Cipto. Ketika usia Cipto dua puluh dua tahun, maka usia Amir adalah?
+
+!Bel dari regu SD PN berbunyi lantang.
+
+                PANITIA CERDAS CERMAT 1
+    Baik! Dari regu A?
+
+                PESERTA SD PN 1
+    Dua puluh satu tahun!
+
+!PANITIA CERDAS CERMAT 1 diam sejenak membaca kertas yang dipegangnya, lalu berkata.
+
+                PANITIA CERDAS CERMAT 1
+    Benar! Seratus untuk regu A!
+
+!Sorak sorai makin bergemuruh dari kubu SD PN. Sekarang SD PN pun mengejek kubu Laskar Pelangi.
+
+!LINTANG kesal dengan tangan seperti ingin memukul bel dengan keras.
+
+                SAHARA
+    Simpan aja kesalmu buat nanti. Kamu kesal pun juga ga bakal ngubah kesempatan tadi.
+
+!Karena situasi sudah tidak kondusif, PANITIA CERDAS CERMAT 1 menghentikan keributan.
+
+                PANITIA CERDAS CERMAT 1
+    Harap tenang semuanya! Harap tenang! Sekarang kita akan masuk ke pertanyaan ke-empat. Silahkan
+
+                PANITIA CERDAS CERMAT 2
     If a force of fifty newtons is applied at an angle of sixty degree horizontally, what is the work done by this force to move an object ten metres horizontally?
 
-                LINTANG
-    two hundred and fifty joules! Work equals force times distance times value of sixty cosine equals two hundred and fifty Joules!
-
 !LINTANG menyambar bel dengan cepat saat lawannya masih sibuk mencorat-coret kertas.
+
+                PANITIA CERDAS CERMAT 2
+    Silahkan.
+
+                LINTANG
+    Two hundred and fifty joules! Work equals force times distance times value of sixty cosine equals two hundred and fifty Joules!
 
 !Kontestan SD PN melempar pensil mereka, kesal.
 
@@ -2059,8 +2307,99 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 
 !PANITIA CERDAS CERMAT 2 bersorak lantang seperti mengumumkan hadiah tirai di acara televisi.
 
+
+[[Perpanjang scene CERDAS CERMAT agar posisinya lebih sengit antara SD PN dan Muhammadiyah (Naja)]]
+
+!LASKAR PELANGI bersorak keras setelah LINTANG menyamakan poin.
+
+                PANITIA CERDAS CERMAT 1
+    Pertanyaan ke-lima. Kedatangan bangsa Inggris di Indonesia pada awal abad ke-17 tidak sekuat penjajahan Belanda, tetapi hanya bersifat pengaruh perdagangan saja kecuali di wilayah Kalimantan Utara. Hal itu disebab-
+
+!Bel berbunyi dari regu SD PN.
+
+                PANITIA CERDAS CERMAT 1
+    Regu A?
+
+                PESERTA SD PN 1
+    Hal itu dikarenakan Inggris lebih berkonsentrasi atas India sehingga kurang memperhatikan wilayah Indonesia!
+
+                PANITIA CERDAS CERMAT 1
+    SERATUSSSSS!!
+
+!Gemuruh dari tepuk tangan dan sorak sorai kubu SD PN menggema di satu ruangan.
+
                 PANITIA CERDAS CERMAT 2
-    Pertanyaan ketiga, hitunglah luas dalam jarak integral tiga dan nol untuk sebuah fungsi enam ditambah lima x dikurangi x pangkat dua dikurangi empat x
+    Pertanyaan ke-enam. Taraf intensitas bunyi suatu mesin tik sejumlah tujuh puluh lima desibel. Berapakah taraf intensitas bunyi seratus mesin tik yang dipakai secara bersamaan?
+
+!Bel berbunyi lagi dari regu SD PN.
+
+                PANITIA CERDAS CERMAT 2
+    Silahkan.
+
+                PESERTA SD PN 1
+    Sembilan puluh lima desibel!
+
+                PANITIA CERDAS CERMAT 2
+    BENAR! SERATUS UNTUK SD PN!
+
+!Sorak sorai makin keras dari kubu SD PN. Kini mereka mulai melantunkan chant untuk mengejek kubu Laskar Pelangi.
+
+                SUPPORTER SD PN
+    SUDAH KUBILANG JANGAN LAWAN SD PN!
+    SEKARANG KAMU MERASAKAN AKIBATNYA!
+    MENDINGAN KAMU DIAM DI LUAR SAJA!
+    DUDUK YANG MANIS NONTON DI PINGGIR PAGAR!
+    SIAPA YANG SURUH LAWAN SD PN!!
+    SIAPA YANG SURUH LAWAN SD PN!!
+
+!Kubu Laskar Pelangi terpancing dan membalas mereka dengan suara huu yang keras. Para panitia pun segera menghentikan kericuhan tersebut.
+
+                PANITIA CERDAS CERMAT 2
+    Dimohon tetap tenang semua! Tetap tenang!
+
+!Namun kericuhan tidak kunjung reda.
+
+                PANITIA CERDAS CERMAT 2
+    Jika tidak tenang, maka pertandingan tidak akan dilanjutkan!
+
+!Perlahan, kericuhan mulai mereda.
+
+                PANITIA CERDAS CERMAT 2
+    Terima kasih. Sekarang, kami akan bacakan perolehan skor sementara.
+
+!PANITIA CERDAS CERMAT 3 mulai membacakan skor di papan.
+
+                PANITIA CERDAS CERMAT 3
+    Untuk SD PN, perolehan skor sementara berjumlah 400 poin. Untuk SD Muhammadiyah, perolehan skor sementara berjumlah 200 poin.
+
+!Sorakan dari kubu SD PN tiba-tiba menggema sesaat.
+
+                IKAL
+    Lintang! Jangan patah semangat! Masih bisa terkejar itu!
+
+                LINTANG
+    Tau! Tapi tangan mereka cepat-cepat semua loh.
+
+!PANITIA CERDAS CERMAT 1 mulai membacakan soal selanjutnya.
+
+                PANITIA CERDAS CERMAT 1
+    Pertanyaan ke-7. 2.	The product of two consecutive whole numbers is eight thousand five hundred and fifty-six. What are the two consecutive whole numbers that mentioned before?
+
+!Kini SD PN mulai menghitung dengan cepat dan mencoret-coret kertas dengan wajah yang serius. Namun 5 detik berselang, bel berbunyi dari tim SD Muhammadiyah.
+
+                PANITIA CERDAS CERMAT 1
+    Silahkan, regu A?
+
+                LINTANG
+    Ninety-two and ninety-three!!
+
+                PANITIA CERDAS CERMAT 1
+    CORRECT!! SERATUS UNTUK REGU A!
+
+!Sorakan kini mulai terdengar ricuh dari kubu Laskar Pelangi.
+
+                PANITIA CERDAS CERMAT 2
+    Kita lanjut ke pertanyaan ke-delapan. Hitunglah luas dalam jarak integral tiga dan nol untuk sebuah fungsi enam ditambah lima x dikurangi x pangkat dua dikurangi empat x
 
 !Kontestan lain terlihat ribut dengan coretan mereka, menunduk ke meja.
 
@@ -2073,15 +2412,66 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 !Suara tepuk tangan bergemuruh lagi, PAK HARFAN kegirangan seperti anak kecil, menunjuk-nunjuk tim SMP Muhammadiyah.
 
                 PAK HARFAN
-    Lihatlah…itu anak-anakku, ini baru anak-anakku..
+    Lihatlah ... itu anak-anakku, ini baru anak-anakku.
 
-                PANITIA CERDAS CERMAT 2
-    Pertanyaan berikutnya. Jika kurva y sama dengan x kubik ditambah x kuadrat ditambah satu per x kubik ditambah sempuluh, asimtot vertikalnya di titik?
+                PANITIA CERDAS CERMAT 1
+    Pertanyaan ke-sembilan. At what speed does a bicycle and its rider, with a combined mass of one hundred kilogram, have the same momentum as a one thousand five hundred kilogram car travelling at five meter per second?
 
-!Tim dari SD PN sudah dengan sigap mencorat-coret kertas mereka, namun LINTANG, dengan tatapan tetap lurus ke depan dan jari di pelipis. 7 detik, dan Lintang dengan lantang menyeru.
+!Regu SD PN kini meraih kertas untuk menghitung pertanyaan barusan. Namun LINTANG tiba-tiba menyambar bel saat regu SD PN baru akan memulai untuk menghitung.
+
+                PANITIA CERDAS CERMAT 1
+    Silahkan, regu B?
 
                 LINTANG
-    X sama dengan tiga dan x sama dengan negatif 3!
+    Seventy-five meter per second!
+
+                PANITIA CERDAS CERMAT 1
+    BENAR! SERRATUSSS!!!
+
+!Kubu Laskar Pelangi kini mulai bersorak ria atas poin yang diraih.
+
+                PANITIA CERDAS CERMAT 2
+    Baik, soalan terakhir. Sebuah benda bermassa 15 kg ditarik oleh tali pada bidang miring. Jarak yang ditempuh adalah 5,7 meter dan ketinggian 2,5 meter. Berapa usaha yang dilakukan oleh gaya gravitasi?
+
+!Kali ini, regu SD PN menyambar bel duluan supaya tidak kalah dari SD Muhammadiyah.
+
+                PANITIA CERDAS CERMAT 2
+    Regu A!
+
+                PESERTA SD PN 1
+    Negatif tiga ratus enam puluh tujuh koma lima Joule! Negatif menandakan arah dari usaha tersebut bergerak ke bawah!
+
+                PANITIA CERDAS CERMAT 2
+    SERRATUSSSS!!!
+
+!Sorakan kubu SD PN kini mulai mengalahkan suara dari panitia.
+
+!Walau sorakan SD PN mulai mereda, tapi masih tetap berlanjut karena tidak ada yang menghentikannya. Di sisi lain, para PANITIA CERDAS CERMAT saling berdiskusi.
++
+!PANITIA CERDAS CERMAT 3 pun mulai berbicara.
+
+                PANITIA CERDAS CERMAT 3
+    Dikarenakan skor dan SD PN dan SD Muhammadiyah seri, maka kami akan memberikan satu soal tambahan sebagai penentuan siapakah juara di cerdas cermat tahun ini.
+
+!Sorak sorai dari kedua belah kubu pun pecah.
+
+                PANITIA CERDAS CERMAT 3
+    Harap tenang semuanya! Soal akan segera dibacakan!
+
+!Setelah situasi mulai tenang, PANITIA CERDAS CERMAT 2 pun mulai berbicara.
+
+                PANITIA CERDAS CERMAT 2
+    Soal penentu!
+
+!Suasana mulai lebih tegang setelah PANITIA CERDAS CERMAT 2 selesai berbicara.    
+
+                PANITIA CERDAS CERMAT 2
+    Jika kurva y sama dengan x kubik ditambah x kuadrat ditambah satu per x kubik ditambah sepuluh, asimtot vertikalnya di titik?
+
+!Tim dari SD PN sudah dengan sigap mencorat-coret kertas mereka. Namun LINTANG, dengan tatapan tetap lurus ke depan dan jari di pelipis, 7 detik, dan Lintang dengan lantang menyeru.
+
+                LINTANG
+    X sama dengan tiga dan x sama dengan negatif tiga!
 
                 PANITIA CERDAS CERMAT 2
     Jawaban salah, tim F minus 100 poin!
@@ -2130,7 +2520,7 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 >BLACKOUT
 
 ===
-.INT./EXT. RUMAH LINTANG - "BINTANG YANG PADAM" #10#
+.INT./EXT. RUMAH LINTANG - "BINTANG YANG PADAM" #11#
 
 ***PROPERTI: Medali emas, tas***
 
@@ -2188,7 +2578,6 @@ VENI! VIDI! VICI! AKU DATANG, AKU LIHAT, AKU MENANG
 
 >LIGHTS OUT
 >SET PINDAH KE SEKOLAH
-[[ini mau disetel musik yang sedih ga ya]]
 
 !ANAK-ANAK sedang berhitung dengan lidi. IKAL terlihat bosan dan berulangkali melihat bangku di sebelahnya yang kosong. 
 
