@@ -2,7 +2,7 @@
 <Production>
   <Version>3.0.214.0</Version>
   <FileName>D:\Projects\Enforian\Sound Control System\Enforian.mpp</FileName>
-  <LastModified>2024-11-15 9:43:31 pm</LastModified>
+  <LastModified>2024-11-20 9:05:25 pm</LastModified>
   <General>
     <Title>Enforian 2024 Laskar Pelangi</Title>
     <Author>Rayya Tegar</Author>
@@ -40,8 +40,8 @@
     <Buttons StopwatchFontColour="FFFFFF" StopwatchBgColour="000000" ClockFontColour="FFFFFF" ClockBgColour="000000" StopAllFontColour="FFFF00" StopAllBgColour="000000" FadeAllFontColour="00FFFF" FadeAllBgColour="000000" AdvanceFontColour="FF8000" AdvanceBgColour="000000" CountDownTimerFontColourNormal="FFFFFF" CountDownTimerBgColourNormal="008000" CountDownTimerFontColourWarning="FF0000" CountDownTimerBgColourWarning="000000"/>
     <HideFractionalSeconds>0</HideFractionalSeconds>
   </Appearance>
-  <Audio PreviewDeviceName="Speakers (SoundWire Audio)" PreviewDeviceChans="1">
-    <Patch Name="Audio Output 1" DeviceName="Speakers (SoundWire Audio)" DeviceChans="1"/>
+  <Audio PreviewDeviceName="Default" PreviewDeviceChans="1">
+    <Patch Name="Audio Output 1" DeviceName="Default" DeviceChans="1"/>
     <Patch Name="Audio Output 2" DeviceName="Default" DeviceChans="1"/>
   </Audio>
   <MIDI>
@@ -62,18 +62,17 @@
       <sitelist>
 				<site dpi="96" id="fmMain.DockSite">
 					<zone kind="HORZ">
-						<zone kind="VERT" size="212" dsize="0.14431586113002">
+						<zone kind="VERT" size="233" dsize="0.158611300204221">
 							<zone kind="PANEL" id="fmMain.dkCueControls" visible="1" size="290" dsize="0.353641852900708"/>
 							<zone kind="PANEL" id="fmMain.dkAdvance" visible="0" size="117" dsize="0.337603904960571"/>
 							<zone kind="PANEL" id="fmMain.dkGo" visible="1" size="167" dsize="0.203658536585366"/>
 							<zone kind="PANEL" id="fmMain.dkStopAll" visible="1" size="162" dsize="0.197560975609756"/>
 							<zone kind="PANEL" id="fmMain.dkFadeAll" visible="1" size="201" dsize="0.24513863490417"/>
 							<zone kind="PANEL" id="fmMain.dkStopwatch" visible="0" size="32" dsize="0.0197318388222449"/>
-							<zone kind="PANEL" id="fmMain.dkRemainingTime" visible="0" size="32" dsize="0.0574765199848159"/>
 							<zone kind="PANEL" id="fmMain.dkCountdownTimer" visible="0" size="72" dsize="0.137605055081413"/>
 							<zone kind="PANEL" id="fmMain.dkVideoPreview" visible="0" size="431" dsize="0.812134628589392"/>
 						</zone>
-						<zone kind="PANEL" id="fmMain.dkCueList" visible="1" size="971" dsize="0.660993873383254" isspace="1"/>
+						<zone kind="PANEL" id="fmMain.dkCueList" visible="1" size="952" dsize="0.648059904697073" isspace="1"/>
 						<zone kind="VERT" size="153" dsize="0.10457963089542">
 							<zone kind="PANEL" id="fmMain.dkScheduler" visible="0" size="32" dsize="0.00450672386577965"/>
 							<zone kind="PANEL" id="fmMain.dkInfo" visible="0" size="32" dsize="0.017351749652883"/>
@@ -87,11 +86,12 @@
 								<zone kind="PANEL" id="fmMain.dkSelectedCue" visible="0" size="838" dsize="1"/>
 							</zone>
 						</zone>
-						<zone kind="VERT" size="286" dsize="0.194690265486726">
-							<zone kind="PANEL" id="fmMain.dkClock" visible="1" size="102" dsize="0.124390243902439"/>
-							<zone kind="PANEL" id="fmMain.dkElapsedTime" visible="1" size="90" dsize="0.109756097560976"/>
-							<zone kind="PANEL" id="fmMain.dkNotes" visible="1" size="272" dsize="0.331707317073171"/>
-							<zone kind="PANEL" id="fmMain.dkAudioPreview" visible="1" size="356" dsize="0.434146341463415"/>
+						<zone kind="VERT" size="284" dsize="0.193328795098707">
+							<zone kind="PANEL" id="fmMain.dkClock" visible="1" size="84" dsize="0.102863054178307"/>
+							<zone kind="PANEL" id="fmMain.dkElapsedTime" visible="1" size="81" dsize="0.0995497789381534"/>
+							<zone kind="PANEL" id="fmMain.dkRemainingTime" visible="1" size="84" dsize="0.103194103194103"/>
+							<zone kind="PANEL" id="fmMain.dkNotes" visible="1" size="273" dsize="0.335380835380835"/>
+							<zone kind="PANEL" id="fmMain.dkAudioPreview" visible="1" size="292" dsize="0.359012228308601"/>
 						</zone>
 					</zone>
 				</site>
@@ -131,14 +131,14 @@
       <ScriptRef>Harun! Itu dia, ada Harun!</ScriptRef>
       <Appearance BGColour="000000" FontColour="FFFFFF"/>
       <Advance Action="1" Target="0"/>
-      <File Name="$(MEDIA)Sahabat Alam - Full Score.mp3" Duration="125053"/>
+      <File Name="$(MEDIA)Sahabat Alam-Backing Track Piccolo, Flute, Saxophone, Click.wav" Duration="131862"/>
       <AudioChannel>1</AudioChannel>
       <Loops>1</Loops>
       <Volume-dB>0</Volume-dB>
       <Pan>0</Pan>
       <SpeedStyle>0</SpeedStyle>
       <Speed>100</Speed>
-      <Range Start="0" End="125053"/>
+      <Range Start="0" End="131862"/>
       <Fade In="0" Out="0" AtEnd="0"/>
     </Cue>
     <Cue>
@@ -171,7 +171,7 @@
       <Enabled>-1</Enabled>
       <Description>Kata Pujangga-Backing Track Flute, Trumpet, Kendang, Click</Description>
       <Exclusive Mode="0" FadeTime="200"/>
-      <MidiTime Enabled="0" Time=""/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
       <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
       <Wait Pre="0" Post="0"/>
