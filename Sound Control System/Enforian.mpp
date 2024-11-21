@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Production>
+  <Version>3.0.214.0</Version>
+  <FileName>D:\Projects\Enforian\Sound Control System\Enforian.mpp</FileName>
+  <LastModified>2024-11-15 9:43:31 pm</LastModified>
+  <General>
+    <Title>Enforian 2024 Laskar Pelangi</Title>
+    <Author>Rayya Tegar</Author>
+    <MediaFolder>D:\Projects\Enforian\Sound Control System\</MediaFolder>
+    <AutoStartCueList>0</AutoStartCueList>
+  </General>
+  <MidiControl Device="-1" Active="0"/>
+  <Appearance>
+    <CueList Name="Arial" Size="10" Colour="FFFFFF" BgColour="000000" CueSelectedBgColour="800080" CueSelectedFontColour="FFFFFF" CueDisabledBgColour="808080" CueDisabledFontColour="FFFFFF" CueColourStyle="1" CueListScrollBars="-1">
+      <Audio BGColour="000000" FontColour="FFFFFF"/>
+      <Wait BGColour="000000" FontColour="FFFFFF"/>
+      <Serial BGColour="000000" FontColour="FFFFFF"/>
+      <Adlib BGColour="000000" FontColour="FFFFFF"/>
+      <PlayList BGColour="000000" FontColour="FFFFFF"/>
+      <Control BGColour="000000" FontColour="FFFFFF"/>
+      <MIDI BGColour="000000" FontColour="FFFFFF"/>
+      <END BGColour="000000" FontColour="FFFFFF"/>
+      <MIDISeq BGColour="000000" FontColour="FFFFFF"/>
+      <Image BGColour="000000" FontColour="FFFFFF"/>
+      <MIDIMute BGColour="000000" FontColour="FFFFFF"/>
+      <Video BGColour="000000" FontColour="FFFFFF"/>
+      <Memo BGColour="000000" FontColour="FFFFFF"/>
+      <Network BGColour="000000" FontColour="FFFFFF"/>
+      <Launch BGColour="000000" FontColour="FFFFFF"/>
+      <Lighting BGColour="000000" FontColour="FFFFFF"/>
+      <Message BGColour="000000" FontColour="FFFFFF"/>
+      <HTTP BGColour="000000" FontColour="FFFFFF"/>
+    </CueList>
+    <HotButtons Name="Arial" Size="12"/>
+    <ProgressBar ColourPlaying="008000" ColourPaused="0000FF" ColourWarning="FF0000" ColourInterval="808080" ColourLooping="008000" MaxWhenLooping="-1" ProgressFullHeight="-1"/>
+    <NotesHeader Name="Arial" Size="12" BgColour="000000" Colour="FF0000"/>
+    <NotesBody Name="Arial" Size="10" Colour="000000" BgColour="FFFBF0"/>
+    <Common Name="Arial" Size="10" Colour="FFFFFF" BgColour="000000" SelectedFontColour="FFFFFF" SelectedBgColour="800080"/>
+    <SelectedCueWindow Colour="FFFFFF" BgColour="000000"/>
+    <Buttons StopwatchFontColour="FFFFFF" StopwatchBgColour="000000" ClockFontColour="FFFFFF" ClockBgColour="000000" StopAllFontColour="FFFF00" StopAllBgColour="000000" FadeAllFontColour="00FFFF" FadeAllBgColour="000000" AdvanceFontColour="FF8000" AdvanceBgColour="000000" CountDownTimerFontColourNormal="FFFFFF" CountDownTimerBgColourNormal="008000" CountDownTimerFontColourWarning="FF0000" CountDownTimerBgColourWarning="000000"/>
+    <HideFractionalSeconds>0</HideFractionalSeconds>
+  </Appearance>
+  <Audio PreviewDeviceName="Speakers (SoundWire Audio)" PreviewDeviceChans="1">
+    <Patch Name="Audio Output 1" DeviceName="Speakers (SoundWire Audio)" DeviceChans="1"/>
+    <Patch Name="Audio Output 2" DeviceName="Default" DeviceChans="1"/>
+  </Audio>
+  <MIDI>
+    <Muting Patch="-1" Command="0" Channel="0"/>
+  </MIDI>
+  <Network/>
+  <Messages Adapter=""/>
+  <HotButtons ColumnCount="1" RowCount="1" PageCount="1" UseCueDescriptions="0">
+    <Button Caption="1" CaptionColour="000000" BtnColour="FFFFFF" UID="" List="0" FadeMain="0" FadeAdlib="0"/>
+  </HotButtons>
+  <Layouts DefaultLayout="0">
+    <Layout ColumnStates="15#50,40,23,166,151,43,47,48,32,34,46,48,125,44,64#0,1,2,3,4,5,6,7,8,9,10,11,12,13,14#1,1,1,0,1,1,1,1,1,1,1,1,1,1,1" DirectEdit="0" LimitedUser="0" Name="Default Layout">
+      <Adlib ColumnStates="4#40,40,60,190#0,1,2,3#1,1,1,1"/>
+      <Windows>
+        <fmMain Top="0" Left="0" Height="500" Width="500" Maximised="-1"/>
+      </Windows>
+      <Notes UpperPaneSize="108" LowerPaneSize="108"/>
+      <sitelist>
+				<site dpi="96" id="fmMain.DockSite">
+					<zone kind="HORZ">
+						<zone kind="VERT" size="212" dsize="0.14431586113002">
+							<zone kind="PANEL" id="fmMain.dkCueControls" visible="1" size="290" dsize="0.353641852900708"/>
+							<zone kind="PANEL" id="fmMain.dkAdvance" visible="0" size="117" dsize="0.337603904960571"/>
+							<zone kind="PANEL" id="fmMain.dkGo" visible="1" size="167" dsize="0.203658536585366"/>
+							<zone kind="PANEL" id="fmMain.dkStopAll" visible="1" size="162" dsize="0.197560975609756"/>
+							<zone kind="PANEL" id="fmMain.dkFadeAll" visible="1" size="201" dsize="0.24513863490417"/>
+							<zone kind="PANEL" id="fmMain.dkStopwatch" visible="0" size="32" dsize="0.0197318388222449"/>
+							<zone kind="PANEL" id="fmMain.dkRemainingTime" visible="0" size="32" dsize="0.0574765199848159"/>
+							<zone kind="PANEL" id="fmMain.dkCountdownTimer" visible="0" size="72" dsize="0.137605055081413"/>
+							<zone kind="PANEL" id="fmMain.dkVideoPreview" visible="0" size="431" dsize="0.812134628589392"/>
+						</zone>
+						<zone kind="PANEL" id="fmMain.dkCueList" visible="1" size="971" dsize="0.660993873383254" isspace="1"/>
+						<zone kind="VERT" size="153" dsize="0.10457963089542">
+							<zone kind="PANEL" id="fmMain.dkScheduler" visible="0" size="32" dsize="0.00450672386577965"/>
+							<zone kind="PANEL" id="fmMain.dkInfo" visible="0" size="32" dsize="0.017351749652883"/>
+							<zone kind="PANEL" id="fmMain.dkHotButtons" visible="0" size="97" dsize="0.119298043936817"/>
+							<zone kind="PANEL" id="fmMain.dkAdlibList" visible="0" size="32" dsize="0.0656622008326721"/>
+							<zone kind="PANEL" id="fmMain.dkExtTools" visible="0" size="245" dsize="0.485243076087749"/>
+							<zone kind="PANEL" id="fmMain.dkCueLibrary" visible="0" size="196" dsize="0.238953836500037"/>
+							<zone kind="PANEL" id="fmMain.dkProductionNotes" visible="0" size="344" dsize="0.416263943102453"/>
+							<zone kind="VERT" size="838" dsize="1">
+								<zone kind="PANEL" id="fmMain.dkAudioOutputs" visible="0" size="412" dsize="0.495291902071563"/>
+								<zone kind="PANEL" id="fmMain.dkSelectedCue" visible="0" size="838" dsize="1"/>
+							</zone>
+						</zone>
+						<zone kind="VERT" size="286" dsize="0.194690265486726">
+							<zone kind="PANEL" id="fmMain.dkClock" visible="1" size="102" dsize="0.124390243902439"/>
+							<zone kind="PANEL" id="fmMain.dkElapsedTime" visible="1" size="90" dsize="0.109756097560976"/>
+							<zone kind="PANEL" id="fmMain.dkNotes" visible="1" size="272" dsize="0.331707317073171"/>
+							<zone kind="PANEL" id="fmMain.dkAudioPreview" visible="1" size="356" dsize="0.434146341463415"/>
+						</zone>
+					</zone>
+				</site>
+			</sitelist>
+    </Layout>
+  </Layouts>
+  <Schedule AutoStart="0" SortColumn="1" SortDirection="0"/>
+  <CountdownTimer Target="00:00:00" Warning="60"/>
+  <Video Visible="0">
+    <Screen Name="Window" Top="0" Left="0" Height="50" Width="50" Colour="000000" Monitor="1" Active="0" StayOnTop="0">
+      <Logo Top="0" Left="0" Height="50" Width="50" Colour="000000" FileName=""/>
+    </Screen>
+    <Screen Name="Window" Top="0" Left="0" Height="50" Width="50" Colour="000000" Monitor="1" Active="0" StayOnTop="0">
+      <Logo Top="0" Left="0" Height="50" Width="50" Colour="000000" FileName=""/>
+    </Screen>
+    <Screen Name="Window" Top="0" Left="0" Height="50" Width="50" Colour="000000" Monitor="1" Active="0" StayOnTop="0">
+      <Logo Top="0" Left="0" Height="50" Width="50" Colour="000000" FileName=""/>
+    </Screen>
+    <Screen Name="Window" Top="0" Left="0" Height="50" Width="50" Colour="000000" Monitor="1" Active="0" StayOnTop="0">
+      <Logo Top="0" Left="0" Height="50" Width="50" Colour="000000" FileName=""/>
+    </Screen>
+  </Video>
+  <Lighting/>
+  <CueList>
+    <Cue>
+      <UID>1</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Q>19</Q>
+      <Description>Sahabat Alam</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <ScriptRef>Harun! Itu dia, ada Harun!</ScriptRef>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)Sahabat Alam - Full Score.mp3" Duration="125053"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="125053"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>4</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Padhang Bulan</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <ScriptRef>after lights out</ScriptRef>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="" Duration="0"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="0"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>2</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Kata Pujangga-Backing Track Flute, Trumpet, Kendang, Click</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time=""/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)Kata Pujangga-Backing Track Flute, Trumpet, Kendang, Click.wav" Duration="52158"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="52158"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+  </CueList>
+  <AdlibList/>
+</Production>
