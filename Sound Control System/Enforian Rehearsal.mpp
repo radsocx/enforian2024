@@ -2,7 +2,7 @@
 <Production>
   <Version>3.0.214.0</Version>
   <FileName>D:\Projects\Enforian\Sound Control System\Enforian Rehearsal.mpp</FileName>
-  <LastModified>2024-11-23 8:19:45 pm</LastModified>
+  <LastModified>2024-11-24 9:05:16 pm</LastModified>
   <General>
     <Title>Enforian 2024 Laskar Pelangi</Title>
     <Author>Rayya Tegar</Author>
@@ -41,8 +41,8 @@
     <HideFractionalSeconds>0</HideFractionalSeconds>
   </Appearance>
   <Audio PreviewDeviceName="Speakers (SoundWire Audio)" PreviewDeviceChans="1">
-    <Patch Name="Audio Output 1" DeviceName="Headphone on SoundWire Device (4- SoundWire Audio)" DeviceChans="1"/>
-    <Patch Name="Audio Output 2" DeviceName="Headphone on SoundWire Device (4- SoundWire Audio)" DeviceChans="1"/>
+    <Patch Name="Audio Output 1" DeviceName="Default" DeviceChans="1"/>
+    <Patch Name="Audio Output 2" DeviceName="Default" DeviceChans="1"/>
   </Audio>
   <MIDI>
     <Muting Patch="-1" Command="0" Channel="0"/>
@@ -53,7 +53,7 @@
     <Button Caption="1" CaptionColour="000000" BtnColour="FFFFFF" UID="" List="0" FadeMain="0" FadeAdlib="0"/>
   </HotButtons>
   <Layouts DefaultLayout="0">
-    <Layout ColumnStates="15#50,40,23,199,178,43,47,48,32,34,43,114,64,64,64#0,1,2,3,4,5,6,7,8,9,10,11,12,13,14#1,1,1,0,1,1,1,1,1,1,1,1,0,0,1" DirectEdit="0" LimitedUser="0" Name="Default Layout">
+    <Layout ColumnStates="15#50,40,23,282,208,43,32,31,43,114,64,64,64,64,64#0,1,2,3,4,5,6,7,8,9,10,11,12,13,14#1,1,1,0,1,1,1,0,0,1,1,1,0,0,1" DirectEdit="0" LimitedUser="0" Name="Default Layout">
       <Adlib ColumnStates="4#40,40,60,190#0,1,2,3#1,1,1,1"/>
       <Windows>
         <fmMain Top="0" Left="0" Height="500" Width="500" Maximised="-1"/>
@@ -63,11 +63,11 @@
 				<site dpi="96" id="fmMain.DockSite">
 					<zone kind="HORZ">
 						<zone kind="VERT" size="233" dsize="0.158611300204221">
-							<zone kind="PANEL" id="fmMain.dkCueControls" visible="1" size="290" dsize="0.353641852900708"/>
+							<zone kind="PANEL" id="fmMain.dkCueControls" visible="1" size="299" dsize="0.364390845390091"/>
 							<zone kind="PANEL" id="fmMain.dkAdvance" visible="0" size="117" dsize="0.337603904960571"/>
-							<zone kind="PANEL" id="fmMain.dkGo" visible="1" size="167" dsize="0.203658536585366"/>
-							<zone kind="PANEL" id="fmMain.dkStopAll" visible="1" size="162" dsize="0.197560975609756"/>
-							<zone kind="PANEL" id="fmMain.dkFadeAll" visible="1" size="201" dsize="0.24513863490417"/>
+							<zone kind="PANEL" id="fmMain.dkGo" visible="1" size="172" dsize="0.209848765660909"/>
+							<zone kind="PANEL" id="fmMain.dkStopAll" visible="1" size="142" dsize="0.173170731707317"/>
+							<zone kind="PANEL" id="fmMain.dkFadeAll" visible="1" size="207" dsize="0.252589657241683"/>
 							<zone kind="PANEL" id="fmMain.dkStopwatch" visible="0" size="32" dsize="0.0197318388222449"/>
 							<zone kind="PANEL" id="fmMain.dkCountdownTimer" visible="0" size="72" dsize="0.137605055081413"/>
 							<zone kind="PANEL" id="fmMain.dkVideoPreview" visible="0" size="431" dsize="0.812134628589392"/>
@@ -87,11 +87,11 @@
 							</zone>
 						</zone>
 						<zone kind="VERT" size="278" dsize="0.189244383934649">
-							<zone kind="PANEL" id="fmMain.dkClock" visible="1" size="89" dsize="0.109347157215706"/>
-							<zone kind="PANEL" id="fmMain.dkElapsedTime" visible="1" size="82" dsize="0.100737100737101"/>
-							<zone kind="PANEL" id="fmMain.dkRemainingTime" visible="1" size="88" dsize="0.108108108108108"/>
-							<zone kind="PANEL" id="fmMain.dkNotes" visible="1" size="238" dsize="0.292382982750495"/>
-							<zone kind="PANEL" id="fmMain.dkAudioPreview" visible="1" size="317" dsize="0.38942465118859"/>
+							<zone kind="PANEL" id="fmMain.dkClock" visible="1" size="116" dsize="0.142509672259955"/>
+							<zone kind="PANEL" id="fmMain.dkElapsedTime" visible="1" size="99" dsize="0.121624634083927"/>
+							<zone kind="PANEL" id="fmMain.dkRemainingTime" visible="1" size="110" dsize="0.135135135135135"/>
+							<zone kind="PANEL" id="fmMain.dkNotes" visible="1" size="228" dsize="0.28009828009828"/>
+							<zone kind="PANEL" id="fmMain.dkAudioPreview" visible="1" size="261" dsize="0.320632278422703"/>
 						</zone>
 					</zone>
 				</site>
@@ -218,24 +218,24 @@
       <UID>6</UID>
       <Type>0</Type>
       <Enabled>-1</Enabled>
-      <Description>Musik Romantis A ling ikal</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
+      <Description>Ókaerinasai</Description>
+      <Exclusive Mode="0" FadeTime="0"/>
       <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
       <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
       <Wait Pre="0" Post="0"/>
       <CuePoints/>
-      <ScriptRef>A ling dan Ikal bersentuhan tangan mengambil kapur yang jatuh</ScriptRef>
+      <ScriptRef>a ling dan ikal bersentuhan</ScriptRef>
       <Appearance BGColour="000000" FontColour="FFFFFF"/>
       <Advance Action="1" Target="0"/>
-      <File Name="$(MEDIA)Ókaerinasai.mp3" Duration="14994"/>
+      <File Name="$(MEDIA)Ókaerinasai.mp3" Duration="39172"/>
       <AudioChannel>1</AudioChannel>
       <Loops>1</Loops>
       <Volume-dB>0</Volume-dB>
       <Pan>0</Pan>
       <SpeedStyle>0</SpeedStyle>
       <Speed>100</Speed>
-      <Range Start="0" End="14990"/>
+      <Range Start="0" End="39172"/>
       <Fade In="0" Out="0" AtEnd="0"/>
     </Cue>
     <Cue>
@@ -306,7 +306,7 @@
       <Enabled>-1</Enabled>
       <Q>7</Q>
       <Description>Mahar dan Alam</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
+      <Exclusive Mode="0" FadeTime="0"/>
       <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
       <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
@@ -443,6 +443,29 @@
       <Fade In="0" Out="0" AtEnd="0"/>
     </Cue>
     <Cue>
+      <UID>20</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Amai Kaori</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)Amai Kaori.mp3" Duration="233993"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="233993"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
       <UID>18</UID>
       <Type>0</Type>
       <Enabled>-1</Enabled>
@@ -471,7 +494,7 @@
       <Type>0</Type>
       <Enabled>-1</Enabled>
       <Description>Irup Masuk</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
+      <Exclusive Mode="0" FadeTime="0"/>
       <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
       <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>

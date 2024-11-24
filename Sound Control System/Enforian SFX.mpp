@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Production>
   <Version>3.0.214.0</Version>
-  <FileName>D:\Projects\Enforian\Sound Control System\Enforian Musik.mpp</FileName>
-  <LastModified>2024-11-24 9:16:58 pm</LastModified>
+  <FileName>D:\Projects\Enforian\Sound Control System\Enforian SFX.mpp</FileName>
+  <LastModified>2024-11-24 9:07:13 pm</LastModified>
   <General>
     <Title>Enforian 2024 Laskar Pelangi</Title>
     <Author>Rayya Tegar</Author>
@@ -41,7 +41,7 @@
     <HideFractionalSeconds>0</HideFractionalSeconds>
   </Appearance>
   <Audio PreviewDeviceName="Speakers (SoundWire Audio)" PreviewDeviceChans="1">
-    <Patch Name="3.5mm right Jack" DeviceName="Default" DeviceChans="1"/>
+    <Patch Name="Audio Output 1" DeviceName="Default" DeviceChans="1"/>
     <Patch Name="Audio Output 2" DeviceName="Default" DeviceChans="1"/>
   </Audio>
   <MIDI>
@@ -53,7 +53,7 @@
     <Button Caption="1" CaptionColour="000000" BtnColour="FFFFFF" UID="" List="0" FadeMain="0" FadeAdlib="0"/>
   </HotButtons>
   <Layouts DefaultLayout="0">
-    <Layout ColumnStates="15#50,40,23,217,178,43,47,48,32,34,43,118,64,64,64#0,1,2,3,4,5,6,7,8,9,10,11,12,13,14#1,1,1,0,1,1,1,1,1,1,1,1,0,0,1" DirectEdit="0" LimitedUser="0" Name="Default Layout">
+    <Layout ColumnStates="15#50,40,23,282,208,43,32,31,43,114,64,64,64,64,64#0,1,2,3,4,5,6,7,8,9,10,11,12,13,14#1,1,1,0,1,1,1,0,0,1,1,1,0,0,1" DirectEdit="0" LimitedUser="0" Name="Default Layout">
       <Adlib ColumnStates="4#40,40,60,190#0,1,2,3#1,1,1,1"/>
       <Windows>
         <fmMain Top="0" Left="0" Height="500" Width="500" Maximised="-1"/>
@@ -62,40 +62,36 @@
       <sitelist>
 				<site dpi="96" id="fmMain.DockSite">
 					<zone kind="HORZ">
-						<zone kind="HORZ" size="1140" dsize="0.772881355932203">
-							<zone kind="VERT" size="236" dsize="0.208112874779541">
-								<zone kind="PANEL" id="fmMain.dkCueControls" visible="1" size="282" dsize="0.34390243902439"/>
-								<zone kind="PANEL" id="fmMain.dkAdvance" visible="0" size="117" dsize="0.337603904960571"/>
-								<zone kind="PANEL" id="fmMain.dkGo" visible="1" size="190" dsize="0.231707317073171"/>
-								<zone kind="HORZ" size="152" dsize="0.185365853658537">
-									<zone kind="PANEL" id="fmMain.dkStopAll" visible="1" size="113" dsize="0.489626556016598"/>
-									<zone kind="PANEL" id="fmMain.dkFadeAll" visible="1" size="117" dsize="0.510373443983402"/>
-								</zone>
-								<zone kind="PANEL" id="fmMain.dkExtTools" visible="1" size="196" dsize="0.239024390243902"/>
-								<zone kind="PANEL" id="fmMain.dkStopwatch" visible="0" size="32" dsize="0.0197318388222449"/>
-								<zone kind="PANEL" id="fmMain.dkCountdownTimer" visible="0" size="72" dsize="0.137605055081413"/>
-								<zone kind="PANEL" id="fmMain.dkVideoPreview" visible="0" size="431" dsize="0.812134628589392"/>
-							</zone>
-							<zone kind="PANEL" id="fmMain.dkCueList" visible="1" size="898" dsize="0.791887125220459" isspace="1"/>
-							<zone kind="VERT" size="153" dsize="0.137096774193548">
-								<zone kind="PANEL" id="fmMain.dkScheduler" visible="0" size="838" dsize="1"/>
-								<zone kind="PANEL" id="fmMain.dkInfo" visible="0" size="838" dsize="1"/>
-								<zone kind="PANEL" id="fmMain.dkHotButtons" visible="0" size="838" dsize="1"/>
-								<zone kind="PANEL" id="fmMain.dkAdlibList" visible="0" size="32" dsize="0.0656622008326721"/>
-								<zone kind="PANEL" id="fmMain.dkCueLibrary" visible="0" size="196" dsize="0.238953836500037"/>
-								<zone kind="PANEL" id="fmMain.dkProductionNotes" visible="0" size="344" dsize="0.416263943102453"/>
-								<zone kind="VERT" size="838" dsize="1">
-									<zone kind="PANEL" id="fmMain.dkAudioOutputs" visible="0" size="412" dsize="0.495291902071563"/>
-									<zone kind="PANEL" id="fmMain.dkSelectedCue" visible="0" size="838" dsize="1"/>
-								</zone>
+						<zone kind="VERT" size="233" dsize="0.158611300204221">
+							<zone kind="PANEL" id="fmMain.dkCueControls" visible="1" size="299" dsize="0.364390845390091"/>
+							<zone kind="PANEL" id="fmMain.dkAdvance" visible="0" size="117" dsize="0.337603904960571"/>
+							<zone kind="PANEL" id="fmMain.dkGo" visible="1" size="172" dsize="0.209848765660909"/>
+							<zone kind="PANEL" id="fmMain.dkStopAll" visible="1" size="142" dsize="0.173170731707317"/>
+							<zone kind="PANEL" id="fmMain.dkFadeAll" visible="1" size="207" dsize="0.252589657241683"/>
+							<zone kind="PANEL" id="fmMain.dkStopwatch" visible="0" size="32" dsize="0.0197318388222449"/>
+							<zone kind="PANEL" id="fmMain.dkCountdownTimer" visible="0" size="72" dsize="0.137605055081413"/>
+							<zone kind="PANEL" id="fmMain.dkVideoPreview" visible="0" size="431" dsize="0.812134628589392"/>
+						</zone>
+						<zone kind="PANEL" id="fmMain.dkCueList" visible="1" size="958" dsize="0.65214431586113" isspace="1"/>
+						<zone kind="VERT" size="153" dsize="0.10457963089542">
+							<zone kind="PANEL" id="fmMain.dkScheduler" visible="0" size="32" dsize="0.00450672386577965"/>
+							<zone kind="PANEL" id="fmMain.dkInfo" visible="0" size="32" dsize="0.017351749652883"/>
+							<zone kind="PANEL" id="fmMain.dkHotButtons" visible="0" size="97" dsize="0.119298043936817"/>
+							<zone kind="PANEL" id="fmMain.dkAdlibList" visible="0" size="32" dsize="0.0656622008326721"/>
+							<zone kind="PANEL" id="fmMain.dkExtTools" visible="0" size="245" dsize="0.485243076087749"/>
+							<zone kind="PANEL" id="fmMain.dkCueLibrary" visible="0" size="196" dsize="0.238953836500037"/>
+							<zone kind="PANEL" id="fmMain.dkProductionNotes" visible="0" size="344" dsize="0.416263943102453"/>
+							<zone kind="VERT" size="838" dsize="1">
+								<zone kind="PANEL" id="fmMain.dkAudioOutputs" visible="0" size="412" dsize="0.495291902071563"/>
+								<zone kind="PANEL" id="fmMain.dkSelectedCue" visible="0" size="838" dsize="1"/>
 							</zone>
 						</zone>
-						<zone kind="PANEL" id="fmMain.dkNotes" visible="0" size="127" dsize="0.173734610123119"/>
-						<zone kind="VERT" size="335" dsize="0.227118644067797">
-							<zone kind="PANEL" id="fmMain.dkClock" visible="1" size="128" dsize="0.155616695229167"/>
-							<zone kind="PANEL" id="fmMain.dkElapsedTime" visible="1" size="132" dsize="0.16145647550254"/>
-							<zone kind="PANEL" id="fmMain.dkRemainingTime" visible="1" size="123" dsize="0.15"/>
-							<zone kind="PANEL" id="fmMain.dkAudioPreview" visible="1" size="437" dsize="0.532926829268293"/>
+						<zone kind="VERT" size="278" dsize="0.189244383934649">
+							<zone kind="PANEL" id="fmMain.dkClock" visible="1" size="116" dsize="0.142509672259955"/>
+							<zone kind="PANEL" id="fmMain.dkElapsedTime" visible="1" size="99" dsize="0.121624634083927"/>
+							<zone kind="PANEL" id="fmMain.dkRemainingTime" visible="1" size="110" dsize="0.135135135135135"/>
+							<zone kind="PANEL" id="fmMain.dkNotes" visible="1" size="228" dsize="0.28009828009828"/>
+							<zone kind="PANEL" id="fmMain.dkAudioPreview" visible="1" size="261" dsize="0.320632278422703"/>
 						</zone>
 					</zone>
 				</site>
@@ -121,188 +117,245 @@
   <Lighting/>
   <CueList>
     <Cue>
-      <UID>1</UID>
-      <Type>0</Type>
-      <Enabled>-1</Enabled>
-      <Q>1</Q>
-      <Description>Sahabat Alam</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
-      <MidiTime Enabled="0" Time="00:00:00:00"/>
-      <SecondTrigger Mode="0"/>
-      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
-      <Wait Pre="0" Post="0"/>
-      <CuePoints/>
-      <ScriptRef>Harun! Itu dia, ada Harun!</ScriptRef>
-      <Appearance BGColour="000000" FontColour="FFFFFF"/>
-      <Advance Action="1" Target="0"/>
-      <File Name="$(MEDIA)Sahabat Alam-Backing Track Piccolo, Flute, Saxophone, Click.wav" Duration="0"/>
-      <AudioChannel>1</AudioChannel>
-      <Loops>1</Loops>
-      <Volume-dB>0</Volume-dB>
-      <Pan>0</Pan>
-      <SpeedStyle>0</SpeedStyle>
-      <Speed>100</Speed>
-      <Range Start="0" End="131862"/>
-      <Fade In="0" Out="0" AtEnd="0"/>
-    </Cue>
-    <Cue>
       <UID>5</UID>
-      <Type>12</Type>
-      <Enabled>-1</Enabled>
-      <Q>2</Q>
-      <Description>Padhang Bulan</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
-      <MidiTime Enabled="0" Time="00:00:00:00"/>
-      <SecondTrigger Mode="0"/>
-      <ScriptRef>after award. lights out</ScriptRef>
-      <Appearance BGColour="000000" FontColour="FFFFFF"/>
-      <Advance Action="1" Target="0"/>
-    </Cue>
-    <Cue>
-      <UID>2</UID>
       <Type>0</Type>
       <Enabled>-1</Enabled>
-      <Q>3</Q>
-      <Description>Kata Pujangga</Description>
+      <Description>Brahms Waltz no 8</Description>
       <Exclusive Mode="0" FadeTime="200"/>
       <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
       <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
       <Wait Pre="0" Post="0"/>
       <CuePoints/>
-      <ScriptRef>Mahar dan Syahdan jalan-jalan</ScriptRef>
+      <ScriptRef>lintang mulai tidur</ScriptRef>
       <Appearance BGColour="000000" FontColour="FFFFFF"/>
       <Advance Action="1" Target="0"/>
-      <File Name="$(MEDIA)Kata Pujangga-Backing Track Flute, Trumpet, Kendang, Click.wav" Duration="52158"/>
+      <File Name="$(MEDIA)IMSLP74641-PMLP06507-waltz08.mp3" Duration="100168"/>
       <AudioChannel>1</AudioChannel>
       <Loops>1</Loops>
       <Volume-dB>0</Volume-dB>
       <Pan>0</Pan>
       <SpeedStyle>0</SpeedStyle>
       <Speed>100</Speed>
-      <Range Start="0" End="52158"/>
+      <Range Start="0" End="100168"/>
       <Fade In="0" Out="0" AtEnd="0"/>
-    </Cue>
-    <Cue>
-      <UID>3</UID>
-      <Type>0</Type>
-      <Enabled>-1</Enabled>
-      <Q>4</Q>
-      <Description>Pengalaman Pertama</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
-      <MidiTime Enabled="0" Time="00:00:00:00"/>
-      <SecondTrigger Mode="0"/>
-      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
-      <Wait Pre="0" Post="0"/>
-      <CuePoints/>
-      <ScriptRef>...jatuh hati di lirikan pertama</ScriptRef>
-      <Appearance BGColour="000000" FontColour="FFFFFF"/>
-      <Advance Action="1" Target="0"/>
-      <File Name="" Duration="0"/>
-      <AudioChannel>1</AudioChannel>
-      <Loops>1</Loops>
-      <Volume-dB>0</Volume-dB>
-      <Pan>0</Pan>
-      <SpeedStyle>0</SpeedStyle>
-      <Speed>100</Speed>
-      <Range Start="0" End="0"/>
-      <Fade In="0" Out="0" AtEnd="0"/>
-    </Cue>
-    <Cue>
-      <UID>4</UID>
-      <Type>12</Type>
-      <Enabled>-1</Enabled>
-      <Q>5</Q>
-      <Description>Can't Help Falling in Love</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
-      <MidiTime Enabled="0" Time="00:00:00:00"/>
-      <SecondTrigger Mode="0"/>
-      <ScriptRef>terima kasih ibunda guru</ScriptRef>
-      <Appearance BGColour="000000" FontColour="FFFFFF"/>
-      <Advance Action="1" Target="0"/>
     </Cue>
     <Cue>
       <UID>6</UID>
-      <Type>12</Type>
-      <Enabled>-1</Enabled>
-      <Q>6</Q>
-      <Description>Gran Vals</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
-      <MidiTime Enabled="0" Time="00:00:00:00"/>
-      <SecondTrigger Mode="0"/>
-      <ScriptRef>lelaki berambut ikal, siapa namamu?</ScriptRef>
-      <Appearance BGColour="000000" FontColour="FFFFFF"/>
-      <Advance Action="1" Target="0"/>
-    </Cue>
-    <Cue>
-      <UID>8</UID>
       <Type>0</Type>
       <Enabled>-1</Enabled>
-      <Q>7</Q>
-      <Description>Mahar dan Alam</Description>
-      <Exclusive Mode="0" FadeTime="200"/>
+      <Description>Okaerinasai</Description>
+      <Exclusive Mode="0" FadeTime="0"/>
       <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
       <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
       <Wait Pre="0" Post="0"/>
       <CuePoints/>
-      <ScriptRef>Tahun yang dinanti-nanti</ScriptRef>
+      <ScriptRef>a ling dan ikal bersentuhan</ScriptRef>
       <Appearance BGColour="000000" FontColour="FFFFFF"/>
       <Advance Action="1" Target="0"/>
-      <File Name="" Duration="0"/>
+      <File Name="$(MEDIA)Ókaerinasai.mp3" Duration="39172"/>
       <AudioChannel>1</AudioChannel>
       <Loops>1</Loops>
       <Volume-dB>0</Volume-dB>
       <Pan>0</Pan>
       <SpeedStyle>0</SpeedStyle>
       <Speed>100</Speed>
-      <Range Start="0" End="0"/>
+      <Range Start="0" End="39172"/>
       <Fade In="0" Out="0" AtEnd="0"/>
     </Cue>
     <Cue>
-      <UID>7</UID>
+      <UID>14</UID>
       <Type>0</Type>
       <Enabled>-1</Enabled>
-      <Q>8</Q>
-      <Description>Jatuh Bangkit Kembali</Description>
+      <Description>Crowd SFX</Description>
       <Exclusive Mode="0" FadeTime="200"/>
       <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
       <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
       <Wait Pre="0" Post="0"/>
       <CuePoints/>
-      <ScriptRef>Aku yakin kau pasti bersinar</ScriptRef>
       <Appearance BGColour="000000" FontColour="FFFFFF"/>
       <Advance Action="1" Target="0"/>
-      <File Name="" Duration="0"/>
+      <File Name="$(MEDIA)school-crowd-indonesian-244632.mp3" Duration="39355"/>
       <AudioChannel>1</AudioChannel>
       <Loops>1</Loops>
       <Volume-dB>0</Volume-dB>
       <Pan>0</Pan>
       <SpeedStyle>0</SpeedStyle>
       <Speed>100</Speed>
-      <Range Start="0" End="0"/>
+      <Range Start="0" End="39355"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>15</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Karnaval SD PN</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)- Shostakovich Jazz Suite No. 1 III. Foxtrot.mp3 Shortened Fixed (1).mp3" Duration="72330"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="72330"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>16</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Karnaval Muhammadiyah</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)Adegan Karnaval SD Muhammadiyah YANG INI YA.mp3" Duration="97573"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="97573"/>
       <Fade In="0" Out="0" AtEnd="0"/>
     </Cue>
     <Cue>
       <UID>9</UID>
-      <Type>12</Type>
+      <Type>0</Type>
       <Enabled>-1</Enabled>
-      <Q>9</Q>
-      <Description>Sudut Pagi, 27 Mei 2006</Description>
+      <Description>Drum Roll</Description>
       <Exclusive Mode="0" FadeTime="200"/>
       <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
-      <ScriptRef>Oh bujang....</ScriptRef>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <ScriptRef>berapa usaha yg dilakukan gaya gravitasi?</ScriptRef>
       <Appearance BGColour="000000" FontColour="FFFFFF"/>
       <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)drum-roll-2-228358.mp3" Duration="6466"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="6466"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
     </Cue>
     <Cue>
-      <UID>11</UID>
+      <UID>21</UID>
       <Type>0</Type>
       <Enabled>-1</Enabled>
-      <Q>10</Q>
-      <Description>Laskar Pelangi Flashmob</Description>
+      <Description>nervous heart beat</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <ScriptRef>asimptot vertikalnya di titik...</ScriptRef>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)heart-beat-6797.mp3" Duration="51554"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="51554"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>20</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Amai Kaori</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)Amai Kaori.mp3" Duration="233993"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="233993"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>18</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Koi (Lagu Sedih)</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <ScriptRef>monolog ikal</ScriptRef>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)Koi.mp3" Duration="224981"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="224981"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>19</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Irup Masuk</Description>
+      <Exclusive Mode="0" FadeTime="0"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)IRUP MEMASUKI LAPANGAN UPACARA.mp3" Duration="8916"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="8916"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>12</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>Winning Trumpet</Description>
       <Exclusive Mode="0" FadeTime="200"/>
       <MidiTime Enabled="0" Time="00:00:00:00"/>
       <SecondTrigger Mode="0"/>
@@ -319,6 +372,52 @@
       <SpeedStyle>0</SpeedStyle>
       <Speed>100</Speed>
       <Range Start="0" End="0"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>22</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>SFX Badai</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)Thunderstorm At Sea Sounds For Sleeping Relaxing Thunder Rain Ocean Sea Lightning Ambience.mp3" Duration="340990"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="340990"/>
+      <Fade In="0" Out="0" AtEnd="0"/>
+    </Cue>
+    <Cue>
+      <UID>23</UID>
+      <Type>0</Type>
+      <Enabled>-1</Enabled>
+      <Description>SFX Petir</Description>
+      <Exclusive Mode="0" FadeTime="200"/>
+      <MidiTime Enabled="0" Time="00:00:00:00"/>
+      <SecondTrigger Mode="0"/>
+      <Ignore FadeAll="0" StopAll="0" PauseAll="0" ResumeAll="0"/>
+      <Wait Pre="0" Post="0"/>
+      <CuePoints/>
+      <Appearance BGColour="000000" FontColour="FFFFFF"/>
+      <Advance Action="1" Target="0"/>
+      <File Name="$(MEDIA)thunder-124463.mp3" Duration="11064"/>
+      <AudioChannel>1</AudioChannel>
+      <Loops>1</Loops>
+      <Volume-dB>0</Volume-dB>
+      <Pan>0</Pan>
+      <SpeedStyle>0</SpeedStyle>
+      <Speed>100</Speed>
+      <Range Start="0" End="11064"/>
       <Fade In="0" Out="0" AtEnd="0"/>
     </Cue>
   </CueList>
