@@ -8,28 +8,35 @@
 
 ## Padhang Bulan
 
+* Cue: Setelah Awardee
+
 # Scene 2
 
 ## Brahms Waltz no 8
 
 # Scene 3
 
+### [Okaerinasai - MAYUKO](https://www.youtube.com/watch?v=iUpZw0F0LYM&t=137s)
+
+* Cue - Saat A ling dan Ikal bersentuhan tangan mengambil kapur yang jatuh
+
 ## Can't Help Falling in Love (REC)
+
+* Cue: Mahar muter radio
 
 ## Kata Pujangga
 
-- Cue -
+- Cue: Saat Ikal dan SYahdan berjalan ke pasar
 
 ## Pengalaman Pertama
 
-- Cue - SYAHDAN: _Hey! Kau ini kenapa. Tiba-tiba
-  melamun._
+- Cue - SYAHDAN: *...jatuh hati di lirikan pertama*
 
 # Scene 4
 
 ### Kentongan
 
-- Cue - BU MUSLIMAH:  _Calon anak TETI nih_
+- Cue - BU MUSLIMAH:  *Calon anak TETI nih* (Setelah Awardee)
 
 ## Can't Help Falling in Love
 
@@ -53,7 +60,7 @@
 
 # Scene 7
 
-### Crowd
+### Crowd SFX
 
 - Cue - Awal Adegan Dimulai
 
@@ -65,17 +72,33 @@
 
 # Scene 9
 
-## Jatuh, Bangkit Kembali
+### Koi (Lagu Sedih)
+
+* Cue - Monolog Ikal
+
+### SFX Irup Masuk
+
+* Cue - MAHAR: *Langkah Tegap Maju jalan!*
 
 # Scene 10
 
-### Winning Trumpet
+## Jatuh, Bangkit Kembali
+
+* Cue - MAHAR: *Aku yakin kau pasti bersinar*
 
 # Scene 11
 
+# Scene 12
+
+### Winning Trumpet
+
+cue - : Dan kemenangan untuk Muhammadiyah
+
+# Scene 13
+
 ## Musik Sedih (TBA)
 
-Cue Start - BU MUSLIMAH: Oh bujang....
+Cue Start - BU MUSLIMAH:
 
 Cue Pause - LINTANG: Kita adalah cos^2 dan sin^2....
 
